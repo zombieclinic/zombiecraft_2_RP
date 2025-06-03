@@ -28,9 +28,6 @@
 			"spawn_egg": {
 				"base_color": "#070042",
 				"overlay_color": "#025FB6"
-			},
-			"sound_effects": {
-				"orca": "yyfool.orca"
 			}
 		}
 	}
