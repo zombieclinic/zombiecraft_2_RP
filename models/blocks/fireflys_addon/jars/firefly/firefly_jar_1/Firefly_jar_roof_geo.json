@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.firefly_jar_01_1_block_roof",
+				"identifier": "geometry.firefly_jar_01_block_roof",
 				"texture_width": 32,
 				"texture_height": 32,
 				"visible_bounds_width": 3,
