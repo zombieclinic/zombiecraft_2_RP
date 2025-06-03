@@ -7,7 +7,7 @@
         "default": "fishing_hook"
       },
       "textures": {
-       "default": "textures/items/demon_gear/choas_gear"
+       "default": "textures/items/demon_gear/chaos_gear"
       },
       "geometry": {
         "default": "geometry.fishing_hook"
