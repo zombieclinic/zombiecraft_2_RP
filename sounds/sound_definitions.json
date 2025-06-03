@@ -93,6 +93,24 @@
 			"max_distance": 64,
 			"category": "neutral",
 			"sounds": ["sounds/items/choas_explosion"]
+		},
+		"zombie.orca.ambient": {
+			"__use_legacy_max_distance": true,
+			"category": "neutral",
+			"sounds": [
+				"sounds/animals/orca/ambint_1",
+				"sounds/animals/orca/ambint_2",
+				"sounds/animals/orca/ambint_3",
+				"sounds/animals/orca/ambint_4"
+					]
+					
+		},
+		"zombie.orca.hurt": {
+			"category": "neutral",
+			"sounds": [
+				"sounds/animals/orca/orca_hurt",
+				"sounds/animals/orca/orca_hurt_1"
+			]
 		}
 	}
 }

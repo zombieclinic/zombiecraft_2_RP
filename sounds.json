@@ -24,6 +24,14 @@
 			},
 			"pitch": [0.8, 1.2],
 			"volume": 1
+		},
+		"zombie:whale_orca": {
+			"events": {
+				"hurt": "zombie.orca.hurt",
+				"ambient": "zombie.orca.ambient"
+			},
+			"pitch": [0.8, 1.2],
+			"volume": 1
 		}
 	  }
 	}
