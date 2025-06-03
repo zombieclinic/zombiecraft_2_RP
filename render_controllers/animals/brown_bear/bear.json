@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"render_controllers": {
+		"controller.render.bear": {
+			"geometry": "geometry.default",
+			"arrays": {
+				"textures": {
+					"Array.variants": [
+						"Texture.default",
+						"Texture.saddle",
+						"Texture.saddle_chest"
+					]
+				}
+			},
+			"textures": [
+				"array.variants[query.variant]"
+			],
+			"materials": [
+				{
+					"*": "material.default"
+				}
+			]
+		}
+	}
+}

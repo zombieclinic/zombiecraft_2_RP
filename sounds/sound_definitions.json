@@ -1,0 +1,98 @@
+{
+	"format_version": "1.16.0",
+	"sound_definitions": {
+	
+		"mob.bear.death": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/animals/bearsounds/bearsound_death_1",
+				"sounds/animals/bearsounds/bearsound_death_2",
+				"sounds/animals/bearsounds/bearsound_death_3",
+				"sounds/animals/bearsounds/bearsound_death_4"
+			]
+		},
+		"mob.bear.hurt": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/animals/bearsounds/bearsound_hurt_1",
+				"sounds/animals/bearsounds/bearsound_hurt_2",
+				"sounds/animals/bearsounds/bearsound_hurt_3",
+				"sounds/animals/bearsounds/bearsound_hurt_4"
+
+			]
+		},
+		"mob.bear.say": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/animals/bearsounds/bearsound_say_1",
+				"sounds/animals/bearsounds/bearsound_say_2",
+				"sounds/animals/bearsounds/bearsound_say_3",
+				"sounds/animals/bearsounds/bearsound_say_4",
+				"sounds/animals/bearsounds/bearsound_say_5",
+				"sounds/animals/bearsounds/bearsound_say_6",
+				"sounds/animals/bearsounds/bearsound_say_7"
+			]
+		},
+		"mob.bear.roar": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/animals/bearsounds/bearsound_roar_1",
+				"sounds/animals/bearsounds/bearsound_roar_2",
+				"sounds/animals/bearsounds/bearsound_roar_3",
+				"sounds/animals/bearsounds/bearsound_roar_4",
+				"sounds/animals/bearsounds/bearsound_roar_5"
+
+			]
+		},
+		"mob.bear.attack": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/animals/bearsounds/bearsound_attack_1",
+				"sounds/animals/bearsounds/bearsound_attack_2",
+				"sounds/animals/bearsounds/bearsound_attack_3",
+				"sounds/animals/bearsounds/bearsound_attack_4"
+			]
+		},
+		"present": {
+			"category": "neutral",
+			"sounds": [
+				"sounds/present"
+			]
+		},
+		"magictp": {
+			"category":"neutral",
+			"sounds": [
+				"sounds/magicsounds/tp/tpsound"
+			]
+		},
+		"magictpend": {
+			"category":"neutral",
+			"sounds": [
+				"sounds/magicsounds/tp/tpendsound"
+			]
+		},
+		"zombie_walker_born": {
+			"category": "neutral",
+			"sounds": ["sounds/monster/zombie_walker/zombie_born"]
+		},
+		"zombie.walker.hurt": {
+			"category": "neutral",
+			"sounds": ["sounds/monster/zombie_walker/hurt"]
+		},
+		"zombie.walker.scream": {
+			"category": "neutral",
+			"sounds": ["sounds/monster/zombie_walker/scream", "sounds/monster/zombie_walker/scream2", "sounds/monster/zombie_walker/scream3"]
+		},
+		"zombie.bfc.explode": {
+			"min_distance": 1,
+			"max_distance": 64,
+			"category": "neutral",
+			"sounds": ["sounds/items/choas_explosion"]
+		}
+	}
+}

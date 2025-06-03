@@ -1,0 +1,73 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.zombie_hammerhead": {
+			"states": {
+				"default": {
+                    "animations": [
+                        "idle"
+                    ],
+					"transitions": [
+						{
+							"swim": "query.ground_speed"
+						},
+						{
+							"death": ""
+						},
+						{
+							"bite": "variable.attack_time>=0.01"
+						},
+                        {
+                            "death" : "query.variant == 1"
+                        }
+					]
+				},
+				"swim": {
+					"animations": [
+					"swim"
+					],
+					"transitions": [
+						{
+							"default": "!query.ground_speed"
+						},
+                        {
+                            "death" : "query.variant == 1"
+                        },
+                        {
+							"bite": "variable.attack_time>=0.01"
+						}
+					]
+				},
+				"death": {
+					"animations": [
+						"death"
+					],
+					"transitions": [
+						{
+							"default": "query.any_animation_finished"
+						},
+                        {
+                            "death" : "query.variant == 1"
+                        }
+					]
+				},
+				"bite": {
+					"animations": [
+					"bite"
+					],
+					"transitions": [
+						{
+							"default": "query.any_animation_finished && !query.ground_speed"
+						},
+                        {
+                            "swim": "query.any_animation_finished && query.ground_speed"
+                        },
+                        {
+                            "death" : "query.variant == 1"
+                        }
+					]
+				}
+			}
+		}
+	}
+}

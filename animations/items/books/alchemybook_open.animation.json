@@ -1,0 +1,22 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.alchemybook_open.fpp": {
+			"loop": true,
+			"bones": {
+				"bone2": {
+					"rotation": [
+						119.47052,
+						13.25734,
+						-42.63217
+					],
+					"position": [
+						26.01968,
+						-30.20629,
+						-5.24941
+					]
+				}
+			}
+		}
+	}
+}

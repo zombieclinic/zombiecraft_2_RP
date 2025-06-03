@@ -1,0 +1,22 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.alchemist.rod.hold": {
+			"loop": true,
+			"bones": {
+				"staff": {
+					"rotation": [
+						49.36733,
+						39.05928,
+						14.46291
+					],
+					"position": [
+						-1.03531,
+						-2.17634,
+						12.99684
+					]
+				}
+			}
+		}
+	}
+}

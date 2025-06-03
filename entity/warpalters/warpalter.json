@@ -1,0 +1,38 @@
+{
+	"format_version": "1.21.50",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "zombie:warpalter",
+			"materials": {
+				"default": "entity_alphatest",
+				"light": "enderman"
+			},
+			"textures": {
+				"default": "textures/warpalter/genearl"
+			},
+			"geometry": {
+				"default": "geometry.warpalter"
+			},
+			"animations": {
+                "spawn" : "animation.inactive",
+				"open": "animation.opening",
+				"idle": "animation.idle_example",
+                "spawn_full": "animation.spawn_full",
+                "end": "animation.wave_end",
+                "closing": "animation.closing",
+                "contoller": "controller.animation.warpalter"
+			},
+			"render_controllers": [
+				"controller.render.default"
+			],
+			"spawn_egg": {
+				"base_color": "#FFFFFF"
+			},
+			"scripts": {
+				"animate": [
+				"contoller"
+				]
+			}
+		}
+	}
+}

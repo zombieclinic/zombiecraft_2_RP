@@ -1,0 +1,29 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "zombie:bear_claw_ammo",
+			"materials": {
+				"enchanted": "entity_alphatest_glint",
+				"default": "entity_alphatest"
+			},
+			"geometry": {
+				"default": "geometry.bear_ammo"
+			},
+			"textures": {
+				"default": "textures/wepions/bear_claw/bear_claw"
+			},
+			"render_controllers": [
+				"controller.render.default"
+			],
+			"animations": {
+				"alive": "animation.bear_ammo.is_alive"
+			},
+			"scripts": {
+				"animate": [
+					"alive"
+				]
+			}
+		}
+	}
+}

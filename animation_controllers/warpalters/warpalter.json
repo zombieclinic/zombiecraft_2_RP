@@ -1,0 +1,48 @@
+{
+    "format_version": "1.10.0",
+    "animation_controllers": {
+        "controller.animation.warpalter": {
+            "states": {
+                "default": {
+                    "animations": ["spawn"],
+                    "transitions": [
+                        {
+                            "open": "query.variant == 1"
+                        }
+                    ]
+                },
+                "open": {
+                    "animations": [
+                        "open"
+                    ],
+                    "transitions": [
+                        {
+                            "idle": "query.all_animations_finished"
+                        }
+                    ]
+                },
+                "idle": {
+                    "animations": [
+                        "idle"
+                    ],
+                    "transitions": [{
+                        "spawn_full": "query.variant == 2"
+                    }]
+                },
+                "spawn_full": {
+                    "animations": ["spawn_full"],
+                    "transitions": [{
+                        "end" : "query.variant == 3"
+                    }]
+                },
+                "end": {
+                    "animations": ["end"],
+                    "transitions": [{"closing": "query.all_animations_finished"}]
+                },
+                "closing": {
+                    "animations": ["closing"]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+	"format_version": "1.20.40",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "zombie:alchemist_rod",
+			"materials": {
+				"default": "enderman",
+				"enchanted": "entity_alphatest_glint"
+			},
+			"geometry": {
+				"default": "geometry.alchemist's_rod"
+			},
+			"textures": {
+				"default": "textures/wepions/alchemists_rod/alchemists_rod",
+				"enchanted": "textures/misc/enchanted_item_glint"
+			},
+			"animations": {
+				"fpv": "animation.alchemist.rod.hold"
+			},
+			"scripts": {
+				"animate": [
+					{
+						"fpv": "c.is_first_person"
+					}
+				]
+			},
+			"particle_effects": {
+				"alchemist_rod": "zombie:alchemist_rod"
+			},
+			"render_controllers": [
+				"controller.render.item_default"
+			]
+		}
+	}
+}

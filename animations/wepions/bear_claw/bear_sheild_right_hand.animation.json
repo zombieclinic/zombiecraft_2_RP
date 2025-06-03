@@ -1,0 +1,39 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.bear_sheild_right_hand_tpp": {
+			"loop": true,
+			"bones": {
+				"right_shield": {
+					"rotation": [
+						90,
+						-0.75,
+						90
+					],
+					"position": [
+						4.275,
+						0,
+						-4.975
+					]
+				}
+			}
+		},
+		"animation.bear_sheild_right_hand_fpp": {
+			"loop": true,
+			"bones": {
+				"right_shield": {
+					"rotation": [
+						90,
+						-180,
+						90
+					],
+					"position": [
+						4.275,
+						0,
+						8.325
+					]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.custom_bow": {
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"fpp_start": "q.main_hand_item_use_duration > 0.0f && c.is_first_person"
+						},
+						{
+							"tpp_start": "q.main_hand_item_use_duration > 0.0f && !c.is_first_person"
+						}
+					]
+				},
+				"fpp_start": {
+					"animations": [
+						"aim"
+					],
+					"transitions": [
+						{
+							"fpp_end": "query.is_using_item == false && c.is_first_person && q.main_hand_item_use_duration == 0.0f"
+						}
+					]
+				},
+				"fpp_end": {
+					"animations": [
+						"fire"
+					],
+					"transitions": [
+						{
+							"default": "!c.is_first_person"
+						},
+						{
+							"default": "query.all_animations_finished"
+						}
+					]
+				},
+				"tpp_start": {
+					"transitions": [{
+						"tpp_end": "query.is_using_item==false"
+					}]
+				},
+				"tpp_end":{
+					"animations": [
+						"tpp_fire"
+					],
+					"transitions": [
+						{
+							"default": "query.all_animations_finished"
+						}
+					]
+				}
+			}
+		}
+	}
+}

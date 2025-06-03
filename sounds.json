@@ -1,0 +1,30 @@
+{
+	"individual_event_sounds" : {
+	  "events" :{}
+	}, 
+	
+	"block_sounds" : {},
+  
+	"entity_sounds": {
+	  "entities": {
+		"zombie:black_bear": {
+			"events": {
+				"ambient": "mob.bear.say",
+				"death": "mob.bear.death",
+				"hurt": "mob.bear.hurt",
+				"attack": "mob.bear.attack"
+			},
+			"pitch": [0.8, 1.2],
+			"volume": 1
+		},
+		"zombie:walker": {
+			"events": {
+				"hurt": "zombie.walker.hurt",
+				"ambient": "zombie.walker.scream"
+			},
+			"pitch": [0.8, 1.2],
+			"volume": 1
+		}
+	  }
+	}
+  }

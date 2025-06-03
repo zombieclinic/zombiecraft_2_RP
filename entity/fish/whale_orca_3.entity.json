@@ -1,0 +1,37 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "zombie:whale_orca",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/fish/whale_orca_nosaddle",
+				"saddled": "textures/entity/fish/whale_orca_3",
+				"nochest": "textures/entity/fish/whale_orca_nochest"
+			},
+			"geometry": {
+				"default": "geometry.whale_orca_3"
+			},
+			"animations": {
+				"move": "animation.whale_orca_swim"
+			},
+			"animation_controllers": [
+				{
+					"general": "controller.animation.dolphin.general"
+				}
+			],
+			"render_controllers": [
+				"controller.render.orca"
+			],
+			"spawn_egg": {
+				"base_color": "#070042",
+				"overlay_color": "#025FB6"
+			},
+			"sound_effects": {
+				"orca": "yyfool.orca"
+			}
+		}
+	}
+}

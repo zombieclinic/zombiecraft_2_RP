@@ -1,0 +1,46 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.zombio_bear_shield": {
+			"loop": true,
+			"bones": {
+				"shield": {
+					"rotation": [
+						269.21838,
+						3.26637,
+						85.59492
+					],
+					"position": [
+						-3.825,
+						0,
+						-6.425
+					]
+				}
+			}
+		},
+		"animation.zombio_bear_ffp": {
+			"loop": true,
+			"bones": {
+				"shield": {
+					"rotation": [
+						90.7807,
+						1.73317,
+						-94.33693
+					],
+					"position": [
+						-3.825,
+						0,
+						5.375
+					]
+				},
+				"leftArm": {
+					"position": [
+						-11.8,
+						0,
+						0
+					]
+				}
+			}
+		}
+	}
+}

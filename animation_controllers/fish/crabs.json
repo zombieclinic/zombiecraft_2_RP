@@ -1,0 +1,61 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.zombie_crabs.claw": {
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"move_claw": "math.random(0.0,200.0) <= 0.5"
+						},
+						{
+							"claw2": "math.random(0.0,200.0) >= 1.5 && math.random(0.0,200.0) <= 2.0"
+						},
+						{
+							"both": "math.random(0.0,200.0) >= 2.5 && math.random(0.0,200.0) <= 3.0"
+						}
+					]
+				},
+				"move_claw": {
+					"animations": [
+						{
+							"claw1": "(1.0)"
+						}
+					],
+					"transitions": [
+						{
+							"default": "query.any_animation_finished"
+						}
+					]
+				},
+				"claw2": {
+					"animations": [
+						{
+							"claw2": "(1.0)"
+						}
+					],
+					"transitions": [
+						{
+							"default": "query.any_animation_finished"
+						}
+					]
+				},
+				"both": {
+					"animations": [
+						{
+							"claw1": "(1.0)"
+						},
+						{
+							"claw2": "(1.0)"
+						}
+					],
+					"transitions": [
+						{
+							"default": "query.any_animation_finished"
+						}
+					]
+				}
+			}
+		}
+	}
+}

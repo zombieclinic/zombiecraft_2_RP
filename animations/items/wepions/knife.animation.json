@@ -1,0 +1,14 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.demon_knife.fpp_idle": {
+			"loop": true,
+			"bones": {
+				"group": {
+					"rotation": [27.5, 7.5, -72.5],
+					"position": [-5.67789, -18.0819, 1.34407]
+				}
+			}
+		}
+	}
+}
