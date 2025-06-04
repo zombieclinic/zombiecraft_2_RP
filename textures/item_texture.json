@@ -283,6 +283,9 @@
 		},
 		"zombie_chaos_pickaxe":{
 			"textures": "textures/items/demon_gear/pickaxe_icon"
+		},
+		"zombie_cricket_jar": {
+			"textures": "textures/icons/jars/cricket_jar"
 		}
 	}
 }

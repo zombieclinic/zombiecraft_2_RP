@@ -529,6 +529,9 @@
 		},
 		"zombie_demon_chest": {
 			"textures" : "textures/blocks/demons/choas_chest"
+		},
+		"zombie_cricket_jar": {
+			"textures": "textures/entity/cricket/black"
 		}
 	}
 }

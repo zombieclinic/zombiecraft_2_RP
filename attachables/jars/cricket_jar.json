@@ -1,0 +1,31 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "zombie:cricket_jar_item",
+			"textures": {
+				"default": "textures/entity/cricket/black"
+			},
+			"geometry": {
+				"default": "geometry.cricket_jar_item",
+				"right_hand": "geometry.cricket_jar_item_right_hand"
+			},
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"animations": {
+				"first_person": "animation.firefly_jar_01_item.3rd"
+			},
+			"scripts": {
+				"animate": [
+					{
+						"first_person": "c.is_first_person"
+					}
+				]
+			},
+			"render_controllers": [
+				"controller.render.cricket"
+			]
+		}
+	}
+}
