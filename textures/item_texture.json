@@ -286,6 +286,26 @@
 		},
 		"zombie_cricket_jar": {
 			"textures": "textures/icons/jars/cricket_jar"
+		},
+		"zombie_butterfly_jar_blue": {
+			"textures": [
+				"textures/icons/jars/blue_icon"
+			]
+		},
+		"zombie_butterfly_jar_lunar": {
+			"textures": [
+				"textures/icons/jars/lunar_icon"
+			]
+		},
+		"zombie_butterfly_jar_yellow": {
+			"textures": [
+				"textures/icons/jars/yellow_icon"
+			]
+		},
+		"zombie_butterfly_jar_red": {
+			"textures": [
+				"textures/icons/jars/red_icon"
+			]
 		}
 	}
 }

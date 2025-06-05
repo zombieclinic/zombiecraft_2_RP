@@ -532,6 +532,18 @@
 		},
 		"zombie_cricket_jar": {
 			"textures": "textures/entity/cricket/black"
+		},
+		"zombie_red_butterfly_block": {
+			"textures": "textures/blocks/jars/red_butterfly"
+		},
+		"zombie_blue_butterfly_block": {
+			"textures": "textures/blocks/jars/blue_butterfly"
+		},
+		"zombie_lunar_butterfly_block": {
+			"textures": "textures/blocks/jars/lunar_butterfly"
+		},
+		"zombie_yellow_butterfly_block": {
+			"textures": "textures/blocks/jars/yellow_butterfly"
 		}
 	}
 }

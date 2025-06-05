@@ -119,18 +119,6 @@
 				"sounds/animals/cricket/cricket2",
 				"sounds/animals/cricket/cricket3"
 			]
-		},
-		"cricket2": {
-			"category": "neutral",
-			"sounds": [
-				"sounds/cricket2"
-			]
-		},
-		"cricket3": {
-			"category": "neutral",
-			"sounds": [
-				"sounds/cricket3"
-			]
-		},
+		}
 	}
 }

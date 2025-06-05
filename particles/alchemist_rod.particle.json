@@ -5,7 +5,7 @@
 			"identifier": "zombie:alchemist_rod",
 			"basic_render_parameters": {
 				"material": "particles_add",
-				"texture": "textures/particle/zombie_alchemist_rod"
+				"texture": "textures/particles/zombie_alchemist_rod"
 			}
 		},
 		"components": {

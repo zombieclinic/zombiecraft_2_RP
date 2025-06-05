@@ -1,0 +1,37 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "zombie:butterfly_jar_red_item",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/blocks/jars/red_butterfly"
+			},
+			"geometry": {
+				"default": "geometry.butterfly_jar_item",
+				"right_hand": "geometry.butterfly_right_hand"
+			},
+			"render_controllers": [
+				"controller.render.red_bluebutterfly_jar"
+			],
+			"animations": {
+				"first_person": "animation.firefly_jar_01_item.3rd",
+				"wings": "animation.firefly_jar_01_item.wings",
+				"playerwings": "animation.butterfly.player.wings"
+			},
+			"scripts": {
+				"animate": [
+					{
+						"first_person": "c.is_first_person"
+					},
+					"wings",
+					{
+						"playerwings": "!c.is_first_person"
+					}
+				]
+			}
+		}
+	}
+}
