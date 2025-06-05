@@ -131,9 +131,6 @@
 		"dark_firefly_helmet": {
 			"textures": "textures/armor/dark/firefly_dark_helmet_icon"
 		},
-		"firefly_book": {
-			"textures": "textures/items/New folder/book_written"
-		},
 		"firefly_mask": {
 			"textures": "textures/items/mask/firefly_mask_icon"
 		},
@@ -306,6 +303,18 @@
 			"textures": [
 				"textures/icons/jars/red_icon"
 			]
+		},
+		"zombie_peeper_blue_icon": {
+			"textures": "textures/icons/jars/peeper_blue_icon"
+		},
+		"zombie_peeper_red_icon": {
+			"textures": "textures/icons/jars/peeper_red_icon"
+		},
+		"zombie_peeper_purple_icon": {
+			"textures": "textures/icons/jars/peeper_purple_icon"
+		},
+		"zombie_peeper_green_icon": {
+			"textures": "textures/icons/jars/peeper_green_icon"
 		}
 	}
 }

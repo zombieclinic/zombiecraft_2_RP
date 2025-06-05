@@ -544,6 +544,18 @@
 		},
 		"zombie_yellow_butterfly_block": {
 			"textures": "textures/blocks/jars/yellow_butterfly"
+		},
+		"zombie_peeper_blue": {
+			"textures": "textures/entity/fish/blue_peeper"
+		},
+		"zombie_peeper_red": {
+			"textures": "textures/entity/fish/red_peeper"
+		},
+		"zombie_peeper_purple": {
+			"textures": "textures/entity/fish/purple_peeper"
+		},
+		"zombie_peeper_green": {
+			"textures": "textures/entity/fish/peeper"
 		}
 	}
 }
