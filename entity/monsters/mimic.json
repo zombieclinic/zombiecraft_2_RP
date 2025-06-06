@@ -1,0 +1,36 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "zombie:mimic",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/monsters/mimic"
+			},
+			"geometry": {
+				"default": "geometry.zombie_mimic"
+			},
+			"render_controllers": [
+				"controller.render.default"
+			],
+			"spawn_egg": {
+				"overlay_color": "#8A6E0B",
+				"base_color": "#412111"
+			},
+			"animations": {
+				"idle": "animation.mimic.idle",
+				"walk": "animation.mimic.walk",
+				"attack": "animation.mimic.attack",
+				"death": "animation.mimic.death",
+				"controller": "controller.animation.zombie_mimic"
+			},
+			"scripts": {
+				"animate": [
+					"controller"
+				]
+			}
+		}
+	}
+}
