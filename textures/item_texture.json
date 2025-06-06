@@ -315,6 +315,9 @@
 		},
 		"zombie_peeper_green_icon": {
 			"textures": "textures/icons/jars/peeper_green_icon"
+		},
+		"zombie_glow_spider": {
+			"textures": "textures/icons/jars/glow_spider_icon"
 		}
 	}
 }

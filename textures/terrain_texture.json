@@ -556,6 +556,9 @@
 		},
 		"zombie_peeper_green": {
 			"textures": "textures/entity/fish/peeper"
+		},
+		"zombie_glowing_spiders": {
+			"textures": "textures/entity/glowspiders/glowing_spider"
 		}
 	}
 }
