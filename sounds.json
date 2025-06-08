@@ -32,6 +32,13 @@
 			},
 			"pitch": [0.8, 1.2],
 			"volume": 1
+		},
+		"zombie:mimic": {
+			"events": {
+				"hurt": "mimic_hurt"
+			},
+			"pitch": [0.8, 1.2],
+			"volume": 1
 		}
 	  }
 	}

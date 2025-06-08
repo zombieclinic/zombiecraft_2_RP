@@ -119,6 +119,24 @@
 				"sounds/animals/cricket/cricket2",
 				"sounds/animals/cricket/cricket3"
 			]
+		},
+		"mimic": {
+			"category": "neutral",
+			"sounds": [
+				"sounds/monster/mimic/mimic"
+			]
+		},
+		"mimic_hurt": {
+			"category": "neutral",
+			"sounds": [
+				"sounds/monster/mimic/hurt"
+			]
+		},
+		"shroomy_attack": {
+			"category": "neutral",
+			"sounds": [
+				"sounds/animals/shroomy/shroomie"
+			]
 		}
 	}
 }
