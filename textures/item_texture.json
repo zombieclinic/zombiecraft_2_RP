@@ -281,6 +281,18 @@
 		"zombie_chaos_pickaxe":{
 			"textures": "textures/items/demon_gear/pickaxe_icon"
 		},
+		"zombie_chaos_shield":{
+			"textures": "textures/items/demon_gear/chaos_shield_icon"
+		},
+		"zombie_chaos_spear":{
+			"textures": "textures/items/demon_gear/chaos_spear_icon"
+		},
+		"zombie_chaos_staff":{
+			"textures": "textures/items/demon_gear/chaos_staff_icon"
+		},
+		"zombie_chaos_sword":{
+			"textures": "textures/items/demon_gear/chaos_sword_icon"
+		},
 		"zombie_cricket_jar": {
 			"textures": "textures/icons/jars/cricket_jar"
 		},

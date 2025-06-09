@@ -3,7 +3,7 @@
     "minecraft:attachable": {
         "description": {
             "identifier": "zombie:coffin_backpack",
-                     "materials": {
+                "materials": {
                 "enchanted": "armor_enchanted",
                 "default": "entity_alphatest_glint"
             },
