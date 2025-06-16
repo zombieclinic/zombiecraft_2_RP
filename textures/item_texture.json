@@ -330,6 +330,9 @@
 		},
 		"zombie_glow_spider": {
 			"textures": "textures/icons/jars/glow_spider_icon"
+		},
+		"zombie_shroomling_jar_icon": {
+			"textures": "textures/icons/jars/shroomling_jar_icon"
 		}
 	}
 }

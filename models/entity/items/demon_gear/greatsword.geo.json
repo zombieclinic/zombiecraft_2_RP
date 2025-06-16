@@ -58,14 +58,14 @@
 					"pivot": [-6, 14, 0]
 				},
 				{
-					"name": "Weapon",
+					"name": "greatsword2",
 					"parent": "rightItem",
 					"pivot": [-14, 19, -12],
 					"rotation": [12.5, 0, 0]
 				},
 				{
-					"name": "group",
-					"parent": "Weapon",
+					"name": "greatsword",
+					"parent": "greatsword2",
 					"pivot": [-6, 15.33905, -16.38656],
 					"rotation": [73, 0, 0],
 					"cubes": [

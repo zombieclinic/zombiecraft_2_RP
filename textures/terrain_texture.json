@@ -559,6 +559,9 @@
 		},
 		"zombie_glowing_spiders": {
 			"textures": "textures/entity/glowspiders/glowing_spider"
+		},
+		"zombie_shroom_jar": {
+			"textures": "textures/entity/mushmushroom"
 		}
 	}
 }

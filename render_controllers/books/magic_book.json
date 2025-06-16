@@ -1,16 +1,14 @@
 {
-	"format_version": "1.8.0",
-	"render_controllers": {
-		"controller.render.magicbook": {
-			"geometry": "(query.main_hand_item_use_duration>0&&query.is_item_name_any('slot.weapon.mainhand','zombie:conjuration'))?geometry.open:geometry.closed",
-			"materials": [
-				{
-					"*": "material.default"
-				}
-			],
-			"textures": [
-				"texture.default"
-			]
-		}
-	}
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.magicbook": {
+      "geometry": "query.property('zombie:item_state') == 1 ? geometry.open : geometry.closed",
+      "materials": [
+        { "*": "material.default" }
+      ],
+      "textures": [
+        "texture.default"
+      ]
+    }
+  }
 }

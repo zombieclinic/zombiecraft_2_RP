@@ -2,7 +2,7 @@
     "format_version": "1.10.0",
     "minecraft:attachable": {
         "description": {
-            "identifier": "zombie:conjuration",
+            "identifier": "zombie:chaos_book",
             "materials": {
                 "default": "entity_alphatest"
             },

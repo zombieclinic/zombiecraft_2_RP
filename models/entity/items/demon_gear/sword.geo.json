@@ -58,14 +58,14 @@
 					"pivot": [-6, 14, 0]
 				},
 				{
-					"name": "Weapon",
+					"name": "choas_sword",
 					"parent": "rightItem",
 					"pivot": [-32, -14, -1],
 					"rotation": [80, 0, 0]
 				},
 				{
-					"name": "group",
-					"parent": "Weapon",
+					"name": "chaos_sword",
+					"parent": "choas_sword",
 					"pivot": [-6, 5.10025, 23.86612],
 					"rotation": [7.5, 0, 0],
 					"cubes": [

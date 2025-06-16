@@ -1,0 +1,33 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "zombie:shroomling_jar",
+			"textures": {
+				"default": "textures/entity/mushmushroom"
+			},
+			"geometry": {
+				"left_hand": "geometry.mushroom_mob_jar_lefthand",
+				"right_hand": "geometry.shroomie_jar"
+			},
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"render_controllers": [
+				"controller.render.shroomling_jar"
+			],
+			"animations": {
+				"default_leg_pose": "animation.spider.default_leg_pose",
+				"look_at_target": "animation.spider.look_at_target",
+				"walk": "animation.spider.walk"
+			},
+			"scripts": {
+				"animate": [
+					"default_leg_pose",
+					"look_at_target",
+					"walk"
+				]
+			}
+		}
+	}
+}

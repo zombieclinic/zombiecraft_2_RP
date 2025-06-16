@@ -137,6 +137,20 @@
 			"sounds": [
 				"sounds/animals/shroomy/shroomie"
 			]
+		},
+		"Demon_talk": {
+			"category": "neutral",
+			"sounds": [
+				"sounds/monster/demon/bloodforthebloodgod",
+				"sounds/monster/demon/needmoreblood",
+				"sounds/monster/demon/yes_more_blood"
+			]
+		},
+		"rage": {
+			"category": "ambient",
+			"sounds": [
+				"sounds/magic/rage"
+			]
 		}
 	}
 }

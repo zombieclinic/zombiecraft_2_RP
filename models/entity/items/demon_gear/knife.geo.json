@@ -64,7 +64,7 @@
 					"rotation": [62.5, 0, 0]
 				},
 				{
-					"name": "group",
+					"name": "knife",
 					"parent": "Weapon",
 					"pivot": [-6, 1.77835, -24.94576],
 					"rotation": [28.25, 0, 0],
