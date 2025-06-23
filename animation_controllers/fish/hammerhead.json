@@ -12,9 +12,6 @@
 							"swim": "query.ground_speed"
 						},
 						{
-							"death": ""
-						},
-						{
 							"bite": "variable.attack_time>=0.01"
 						},
                         {

@@ -5,7 +5,7 @@
       "identifier": "zombie:chaos_sword",
       "materials": {
         "enchanted": "entity_alphatest_glint",
-        "default": "entity_alphatest"
+        "default": "item_in_hand_entity_alphatest"
       },
       "geometry": {
         "knife": "geometry.demon_knife",
@@ -19,14 +19,24 @@
       "render_controllers": [
         "controller.render.chaos_sword"
       ],
+      "particle_effects":{
+                "chaos": "zombie:chaos_particle",
+                "jump_attack": "zombie:chaos_jump_attack"
+      },
       "animations": {
-        "knife_fpp":       "animation.demon_knife.fpp_idle"
+        "knife_fpp":       "animation.demon_knife.fpp_idle",
+         "particle": "animation.tpp_axe_particle",
+         "slash": "animation.demon_knife.slash",
+         "jump_attack": "animation.demon_knife.Jump_attack",
+        "particle_controller": "controller.animation.chaos_sword_particle",
+        "controller": "controller.animation.chaos_sword"
       },
       "scripts": {
         "animate": [
             {
-                "knife_fpp": "c.is_first_person"
-            }
+                "controller": "c.is_first_person"
+            },
+            "particle_controller"
         ]
       }
     }

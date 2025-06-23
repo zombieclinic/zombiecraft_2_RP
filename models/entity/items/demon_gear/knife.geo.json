@@ -6,9 +6,9 @@
 				"identifier": "geometry.demon_knife",
 				"texture_width": 128,
 				"texture_height": 128,
-				"visible_bounds_width": 5,
-				"visible_bounds_height": 4,
-				"visible_bounds_offset": [0, 1, 0]
+				"visible_bounds_width": 10,
+				"visible_bounds_height": 5,
+				"visible_bounds_offset": [0, 1.5, 0]
 			},
 			"bones": [
 				{
@@ -426,7 +426,7 @@
 								"north": {"uv": [0, 0], "uv_size": [0, 17]},
 								"east": {"uv": [112.5, 56], "uv_size": [-5, 17]},
 								"south": {"uv": [0, 0], "uv_size": [0, 17]},
-								"west": {"uv": [107.5, 56], "uv_size": [5, 17]},
+								"west": {"uv": [75, 80], "uv_size": [5, 17]},
 								"up": {"uv": [0, 8], "uv_size": [0, -8]},
 								"down": {"uv": [0, 8], "uv_size": [0, -8]}
 							}
@@ -436,7 +436,7 @@
 							"size": [0, 17, 5],
 							"uv": {
 								"north": {"uv": [0, 0], "uv_size": [0, 17]},
-								"east": {"uv": [107.5, 56], "uv_size": [5, 17]},
+								"east": {"uv": [77, 88.5], "uv_size": [5, 17]},
 								"south": {"uv": [0, 0], "uv_size": [0, 17]},
 								"west": {"uv": [112.5, 56], "uv_size": [-5, 17]},
 								"up": {"uv": [0, 0], "uv_size": [0, 8]},
