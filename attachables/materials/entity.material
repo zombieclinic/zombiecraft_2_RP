@@ -1,0 +1,12 @@
+//bridge-file-version: #6
+{
+  "materials": {
+    "version": "1.0.0",
+    "indicator:spider": {
+      "+defines": [ "USE_UV_ANIM" ]
+    },
+    "text:entity_alphablend": {
+      "depthFunc": "Always"
+    }
+  }
+}
