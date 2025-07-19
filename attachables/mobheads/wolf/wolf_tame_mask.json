@@ -1,4 +1,4 @@
-//bridge-file-version: #81
+
 {
 	"format_version": "1.10.0",
 	"minecraft:attachable": {
@@ -9,9 +9,8 @@
 				"enchanted": "armor_enchanted"
 			},
 			"textures": {
-				"default": "textures/heads/wolf_tamed",
-				"enchanted": "textures/misc/enchanted_item_glint",
-				"tame": "textures/heads/wolf_tamed"
+				"default": "textures/mobheads/heads/wolf_tamed",
+				"enchanted": "textures/misc/enchanted_item_glint"
 			},
 			"geometry": {
 				"default": "geometry.wolf_tamed_mask"

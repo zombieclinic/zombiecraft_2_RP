@@ -1,4 +1,4 @@
-//bridge-file-version: #58
+
 {
 	"format_version": "1.10.0",
 	"minecraft:attachable": {
@@ -9,7 +9,7 @@
 				"enchanted": "armor_enchanted"
 			},
 			"textures": {
-				"default": "textures/heads/villager_v2_taiga_weaponsmith",
+				"default": "textures/mobheads/heads/villager_v2_taiga_weaponsmith",
 				"enchanted": "textures/misc/enchanted_item_glint"
 			},
 			"geometry": {

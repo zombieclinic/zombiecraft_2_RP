@@ -1,4 +1,3 @@
-//bridge-file-version: #42
 {
 	"format_version": "1.20.40",
 	"minecraft:attachable": {
@@ -9,22 +8,22 @@
 				"enchanted": "armor_enchanted"
 			},
 			"textures": {
-				"white": "textures/heads/sheep_white",
-				"blue": "textures/heads/sheep_blue",
-				"purple": "textures/heads/sheep_purple",
-				"green": "textures/heads/sheep_green",
-				"black": "textures/heads/sheep_black",
-				"brown": "textures/heads/sheep_brown",
-				"cyan": "textures/heads/sheep_cyan",
-				"gray": "textures/heads/sheep_gray",
-				"light_blue": "textures/heads/sheep_light_blue",
-				"light_gray": "textures/heads/sheep_light_gray",
-				"lime": "textures/heads/sheep_lime",
-				"magenta": "textures/heads/sheep_magenta",
-				"orange": "textures/heads/sheep_orange",
-				"pink": "textures/heads/sheep_pink",
-				"red": "textures/heads/sheep_red",
-				"yellow": "textures/heads/sheep_yellow",
+				"white": "textures/mobheads/heads/sheep_white",
+				"blue": "textures/mobheads/heads/sheep_blue",
+				"purple": "textures/mobheads/heads/sheep_purple",
+				"green": "textures/mobheads/heads/sheep_green",
+				"black": "textures/mobheads/heads/sheep_black",
+				"brown": "textures/mobheads/heads/sheep_brown",
+				"cyan": "textures/mobheads/heads/sheep_cyan",
+				"gray": "textures/mobheads/heads/sheep_gray",
+				"light_blue": "textures/mobheads/heads/sheep_light_blue",
+				"light_gray": "textures/mobheads/heads/sheep_light_gray",
+				"lime": "textures/mobheads/heads/sheep_lime",
+				"magenta": "textures/mobheads/heads/sheep_magenta",
+				"orange": "textures/mobheads/heads/sheep_orange",
+				"pink": "textures/mobheads/heads/sheep_pink",
+				"red": "textures/mobheads/heads/sheep_red",
+				"yellow": "textures/mobheads/heads/sheep_yellow",
 				"enchanted": "textures/misc/enchanted_item_glint"
 			},
 			"geometry": {
