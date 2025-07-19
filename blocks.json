@@ -533,5 +533,15 @@
 	"zombie:demon_steel_ore": {
 		"sound": "iron",
 		"textures": "zombie_steel_ore"
+	},
+	"zombie:blu3winqs_animatedshroom": {
+		"sound": "stone",
+		"textures": "zombie_blu3winqs8"
+	},
+	"zombie:blu3winqs_ghost_shroom": {
+		"sound": "glass"
+	},
+	"zombie:blu3winqs_fire_girl": {
+		"sound": "glass"
 	}
 }

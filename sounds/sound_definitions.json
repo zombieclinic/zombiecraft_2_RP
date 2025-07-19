@@ -151,6 +151,12 @@
 			"sounds": [
 				"sounds/magic/rage"
 			]
+		},
+		"painting": {
+			"category": "neutral",
+			"sounds": [
+				"sounds/mystical-chime"
+			]
 		}
 	}
 }

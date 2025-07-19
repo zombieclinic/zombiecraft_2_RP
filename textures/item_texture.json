@@ -333,6 +333,15 @@
 		},
 		"zombie_shroomling_jar_icon": {
 			"textures": "textures/icons/jars/shroomling_jar_icon"
+		},
+		"zombie_paint_brush": {
+			"textures": "textures/paintings/paint_brush"
+		},
+		"zombie_canvus": {
+			"textures": "textures/paintings/canvus"
+		},
+		"zombie_paint_palette": {
+			"textures": "textures/paintings/paint_palette2"
 		}
 	}
 }
