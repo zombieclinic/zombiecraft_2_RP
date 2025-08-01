@@ -1,0 +1,16 @@
+{
+    "format_version": "1.10.0",
+    "render_controllers": {
+        "controller.render.zombie_banker": {
+            "geometry": "Geometry.zombie_banker",
+            "materials": [
+                {
+                    "*": "Material.default"
+                }
+            ],
+            "textures": [
+                "Texture.zombie_banker"
+            ]
+        }
+    }
+}

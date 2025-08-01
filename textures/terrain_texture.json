@@ -445,6 +445,9 @@
 		"zombie_warpaltar": {
 			"textures": "textures/blocks/magic/warpaltar"
 		},
+		"zombie_mailbox": {
+			"textures": "textures/blocks/magic/mailbox"
+		},
 		"zombie_happyshop": {
 			"textures": "textures/blocks/magic/shop_block_happy"
 		},
@@ -953,6 +956,10 @@
 		},
 		"zombie_painters": {
 			"textures": "textures/paintings/easel_painting"
+		},
+		
+		"zombie_teleport_block": {
+			"textures": "textures/blocks/magic/teleport_block"
 		},
 		"zombie_allay_mask_block": {
 			"textures": "textures/mobheads/heads/allay"
@@ -1876,6 +1883,9 @@
 		},
 		"zombie_bogged_block": {
 			"textures": "textures/mobheads/heads/bogged"
+		},
+		"zombie_creaking_block": {
+			"textures": "textures/mobheads/heads/creaking_block"
 		}
 	}
 }

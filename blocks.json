@@ -1377,5 +1377,9 @@
 	},
 	"zombie:armadillo_block": {
 		"sound": "bone_block"
+	},
+	"zombie:teleport_block": {
+		"sound": "stone",
+		"textures": "zombie_teleport_block"
 	}
 }

@@ -221,6 +221,9 @@
 		"zombie_spawnbites": {
 			"textures": "textures/items/food/spawnbite"
 		},
+		"zombie_daydreambites": {
+			"textures": "textures/items/food/sleepcookie"
+		},
 		"zombie_crab_bucket":{
 			"textures":"textures/items/food/crab_bucket-2"
 		},
@@ -1311,6 +1314,9 @@
 		},
 		"zombie_bogged_icon": {
 			"textures": "textures/mobheads/items/bogged"
+		},
+		"zombie_creaking_icon": {
+			"textures" : "textures/mobheads/items/creaking_icon"
 		}
 	}
 }

@@ -1,0 +1,238 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.zombie_banker_npc_idle": {
+			"loop": true,
+			"animation_length": 2,
+			"bones": {
+				"upper": {
+					"position": {
+						"0.0": {
+							"post": [0, -0.25, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.0": {
+							"post": [0, 0.25, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.0": {
+							"post": [0, -0.25, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"right_hand": {
+					"rotation": [0, 0, 5],
+					"position": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.0": {
+							"post": [0, 1, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"right_hand_2": {
+					"rotation": {
+						"0.0": {
+							"post": [-17.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.0": {
+							"post": [-25, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.0": [-17.5, 0, 0]
+					},
+					"position": [-0.05229, 0.59772, 0]
+				},
+				"head": {
+					"rotation": {
+						"0.0": [10, 0, 0],
+						"1.0": [2.5, 0, 0],
+						"2.0": [10, 0, 0]
+					},
+					"position": {
+						"0.0": [0, -1, 0],
+						"1.0": [0, 0, 0],
+						"2.0": [0, -1, 0]
+					}
+				},
+				"right_leg": {
+					"rotation": [0, 0, 5]
+				},
+				"right_leg_2": {
+					"rotation": [0, 0, -5],
+					"position": [0.41395, 0.38397, 0],
+					"scale": [0.9525, 1, 0.9725]
+				},
+				"root": {
+					"position": {
+						"0.0": {
+							"post": [0, -0.25, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.0": {
+							"post": [0, -0.3, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.0": {
+							"post": [0, -0.25, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"left_hand": {
+					"rotation": [0, 0, -5],
+					"position": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.0": {
+							"post": [0, 1, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"left_hand_2": {
+					"rotation": {
+						"0.0": {
+							"post": [-17.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.0": {
+							"post": [-25, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.0": {
+							"post": [-17.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					},
+					"position": [0.05229, 0.59772, 0]
+				},
+				"left_leg": {
+					"rotation": [0, 0, -5]
+				},
+				"left_leg_2": {
+					"rotation": [0, 0, 5],
+					"position": [-0.32275, 0.35202, 0],
+					"scale": [0.9325, 1, 0.94]
+				},
+				"bone": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.0": [-3.25005, -2.47212, 1.15143]
+					}
+				}
+			}
+		},
+		"animation.zombie_banker_player_near": {
+			"loop": true,
+			"animation_length": 2,
+			"bones": {
+				"root": {
+					"position": [0, -0.25, 0]
+				},
+				"upper": {
+					"position": {
+						"0.0": {
+							"post": [0, -0.25, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.9167": {
+							"post": [0, 0.25, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.9167": [0, -0.25, 0]
+					}
+				},
+				"right_hand": {
+					"rotation": {
+						"0.0": [0, 0, 5],
+						"0.9167": [0, 0, 22.5],
+						"2.0": [0, 0, 5]
+					},
+					"position": {
+						"0.0": {
+							"post": [0, -2, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.0": {
+							"post": [0, -2, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"right_hand_2": {
+					"rotation": [-97.46258, 4.92385, -4.12962],
+					"position": [-0.05229, 0.59772, 0]
+				},
+				"left_hand": {
+					"rotation": {
+						"0.0": [-29.14743, -7.43547, -18.06431],
+						"0.9167": [-29.14743, -7.43547, -30.56431],
+						"2.0": [-29.14743, -7.43547, -18.06431]
+					},
+					"position": [0, -2, 0]
+				},
+				"left_hand_2": {
+					"rotation": [-85, 0, 0]
+				},
+				"head": {
+					"rotation": {
+						"0.0": [10, 0, 0],
+						"1.0": [2.5, 0, 0],
+						"2.0": [10, 0, 0]
+					},
+					"position": {
+						"0.0": [0, -1, 0],
+						"1.0": [0, 0, 0],
+						"2.0": [0, -1, 0]
+					}
+				},
+				"right_leg": {
+					"rotation": [0, 0, 5]
+				},
+				"right_leg_2": {
+					"rotation": [0, 0, -5],
+					"position": [0.41395, 0.38397, 0],
+					"scale": [0.9525, 1, 0.9725]
+				},
+				"left_leg": {
+					"rotation": [0, 0, -5]
+				},
+				"left_leg_2": {
+					"rotation": [0, 0, 5],
+					"position": [-0.32275, 0.35202, 0],
+					"scale": [0.9325, 1, 0.94]
+				},
+				"bone": {
+					"rotation": [-98.67053, -2.72799, -185.58151],
+					"position": {
+						"0.0": [-9.02626, -3.53092, -5.40165],
+						"1.0": [-8.94417, -4.51787, -5.2706]
+					}
+				},
+				"bone2": {
+					"rotation": [23.55583, 7.74095, 2.71202],
+					"position": [2.11156, -3.64401, -4.63156]
+				},
+				"bone1": {
+					"position": [-8.91575, 0.71369, -4.825]
+				}
+			}
+		}
+	}
+}
