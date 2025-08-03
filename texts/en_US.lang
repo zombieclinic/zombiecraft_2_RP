@@ -57,7 +57,7 @@ item.spawn_egg.entity.zombie:scavenger.name=Scavenger Spawn Egg
 item.spawn_egg.entity.zombie:shroomling.name=Shroomling Spawn Egg
 item.spawn_egg.entity.zombie:spitter.name=Spitter Spawn Egg
 item.spawn_egg.entity.zombie:walker.name=Walker Spawn Egg
-
+item.spawn_egg.entity.zombie:greatwhite.name=Great White Spawn Egg
 
 
 potion.absorption.name=§ePotion of Absorption §8– Grants extra hearts temporarily
