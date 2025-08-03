@@ -154,8 +154,30 @@ potion.wither.name=§0Potion of Decay §8– Inflicts deadly wither damage
 potion.wither.splash.name=Splash §0Potion of Decay §8– Inflicts deadly wither damage
 potion.wither.linger.name=Lingering §0Potion of Decay §8– Inflicts deadly wither damage
 
-itemGroup.name.chaos=Chaos Equipment
-zombie:itemGroup.name.magic_blocks=Magic Blocks
+potion.water.name=§7Water Bottle §8– Just water
+potion.water.splash.name=Splash §7Water Bottle §8– Just water
+potion.water.linger.name=Lingering §7Water Bottle §8– Just water
+
+
+potion.awkward.name=§7Awkward Potion §8– Base for brewing
+potion.awkward.splash.name=Splash §7Awkward Potion §8– Base for brewing
+potion.awkward.linger.name=Lingering §7Awkward Potion §8– Base for brewing
+
+
+potion.thick.name=§7Thick Potion §8– Base for Potion of Weakness
+potion.thick.splash.name=Splash §7Thick Potion §8– Base for Potion of Weakness
+potion.thick.linger.name=Lingering §7Thick Potion §8– Base for Potion of Weakness
+
+
+potion.mundane.name=§7Mundane Potion §8– No effect
+potion.mundane.splash.name=Splash §7Mundane Potion §8– No effect
+potion.mundane.linger.name=Lingering §7Mundane Potion §8– No effect
+
+
+potion.longMundane.name=§7Long Mundane Potion §8– No effect (extended)
+potion.longMundane.splash.name=Splash §7Long Mundane Potion §8– No effect (extended)
+potion.longMundane.linger.name=Lingering §7Long Mundane Potion §8– No effect (extended)
+
 
 death.attack.anvil=§8%1$s§7 got flattened like yesterday’s pancake by a falling anvil  
 death.attack.arrow=§8%1$s§7 became a pin cushion courtesy of %2$s’s arrow  
@@ -217,3 +239,19 @@ death.fell.assist.item=§8%1$s§7 got doomed to fall by %2$s (with aid from %3$s
 death.fell.finish=§8%1$s§7 fell too far and %2$s finished the job  
 death.fell.finish.item=§8%1$s§7 fell too far and %3$s delivered the coup de grâce  
 death.fell.killer=§8%1$s§7 was doomed to fall by %2$s  
+
+
+
+death.attack.zombie:black_bear=§8%1$s§7 was ripped to shreds by %2$s’s undead claws  
+death.attack.zombie:black_bear_tamed=§8%1$s§7 trusted a “pet”… %2$s turned on them  
+death.attack.zombie:brown_bear=§8%1$s§7 ended up on the menu of %2$s  
+death.attack.zombie:brown_bear_tamed=§8%1$s§7’s hospitality backfired courtesy of %2$s  
+death.attack.zombie:firefly=§8%1$s§7 was lit up and snuffed out by %2$s  
+death.attack.zombie:foragefolk=§8%1$s§7 got foraged into oblivion by %2$s’s careless scythe  
+death.attack.zombie:zombie_black_bear=§8%1$s§7 was mangled into a blood-soaked rug by %2$s  
+death.attack.zombie:zombie_brown_bear=§8%1$s§7 was crushed under the rot-infested might of %2$s  
+death.attack.zombie:zombieelf=§8%1$s§7 was elfishly eviscerated by %2$s  
+death.attack.zombie:zombieelf_spawn=§8%1$s§7’s mercy run out when %2$s “spawned” their doom  
+death.attack.zombie:zombiesanta_easy=§8%1$s§7 got a one-way ticket to the naughty list from %2$s  
+death.attack.zombie:zombiesanta_medium=§8%1$s§7 received coal… and a gruesome demise by %2$s  
+death.attack.zombie:zombiesanta_hard=§8%1$s§7 discovered %2$s’s “gift” was a pile of severed limbs  

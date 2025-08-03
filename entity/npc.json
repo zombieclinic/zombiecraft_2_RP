@@ -67,11 +67,13 @@
         "npc_Kiosk_3": "textures/entity/npc/npc_Kiosk_3",
         "npc_Kiosk_4": "textures/entity/npc/npc_Kiosk_4",
         "npc_Kiosk_5": "textures/entity/npc/npc_Kiosk_5",
-        "zombie_banker": "textures/npc/zombie_banker2"
+        "zombie_banker": "textures/npc/zombie_banker2",
+        "zombie_teleport": "textures/npc/teleport_npc"
       },
       "geometry": {
         "default": "geometry.npc",
-        "zombie_banker": "geometry.zombie_banker"
+        "zombie_banker": "geometry.zombie_banker",
+        "zombie_teleport": "geometry.zombie_teleport_npc"
       },
       "scripts": {
         "animate": [
@@ -88,6 +90,9 @@
           },
           {
             "60_player": "query.variant == 60 && query.skin_id == 1"
+          },
+          {
+            "61_player": "query.variant == 61"
           }
         ]
       },
@@ -97,14 +102,18 @@
         "move": "animation.npc.move",
         "baby_transform": "animation.npc.baby_transform",
         "60_idle": "animation.zombie_banker_npc_idle",
-        "60_player": "animation.zombie_banker_player_near"
+        "60_player": "animation.zombie_banker_player_near",
+        "61_player": "animation.npc_teleportor"
       },
       "render_controllers": [
         {
-            "controller.render.npc" : "query.variant != 60"
+            "controller.render.npc" : "query.variant < 60"
         },
         {
             "controller.render.zombie_banker" : "query.variant == 60"
+        },
+        {
+          "controller.render.zombie_teleport": "query.variant == 61"
         }
       ],
       "spawn_egg": {
