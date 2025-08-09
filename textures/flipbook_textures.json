@@ -12,5 +12,106 @@
     ],
     "ticks_per_frame": 2,
     "blend_frames": true
-}
+},
+    {
+        "flipbook_texture": "textures/blocks/mario/part_1",
+        "atlas_tile": "zombie_luckyblock_1",
+        "frames": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ticks_per_frame": 5,
+        "blend_frames": false
+    },    {
+        "flipbook_texture": "textures/blocks/mario/part_2",
+        "atlas_tile": "zombie_luckyblock_2",
+        "frames": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ticks_per_frame": 5,
+        "blend_frames": false
+    },    {
+        "flipbook_texture": "textures/blocks/mario/part_3",
+        "atlas_tile": "zombie_luckyblock_3",
+        "frames": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ticks_per_frame": 5,
+        "blend_frames": false
+    },    {
+    },    {
+        "flipbook_texture": "textures/blocks/mario/part_4",
+        "atlas_tile": "zombie_luckyblock_4",
+        "frames": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ticks_per_frame": 5,
+        "blend_frames": false
+    },    {
+        "flipbook_texture": "textures/blocks/mario/dirty_notes",
+        "atlas_tile": "zombie_dirty_music_block",
+        "frames": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ticks_per_frame": 5,
+        "blend_frames": true
+    },    {
+        "flipbook_texture": "textures/blocks/mario/gold_brick",
+        "atlas_tile": "zombie_gold_brick",
+        "frames": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ticks_per_frame": 5,
+        "blend_frames": true
+    },    {
+        "flipbook_texture": "textures/blocks/mario/lightblue_brick",
+        "atlas_tile": "zombie_mario_lightblue_brick",
+        "frames": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ticks_per_frame": 5,
+        "blend_frames": true
+    },    {
+        "flipbook_texture": "textures/blocks/mario/music_note",
+        "atlas_tile": "zombie_music_note",
+        "frames": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ticks_per_frame": 5,
+        "blend_frames": true
+    },    {
+        "flipbook_texture": "textures/blocks/mario/dirty_notes",
+        "atlas_tile": "zombie_dirty_music_block",
+        "frames": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ticks_per_frame": 5,
+        "blend_frames": true
+    }
 ]

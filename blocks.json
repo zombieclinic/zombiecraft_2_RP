@@ -1381,5 +1381,336 @@
 	"zombie:teleport_block": {
 		"sound": "stone",
 		"textures": "zombie_teleport_block"
+	},
+	"zombie:redstone_black_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_blue_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_brown_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_cyan_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_gray_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_green_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_lightblue_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_lightgray_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_lime_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_magenta_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_orange_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_pink_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_purple_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_red_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_white_lamp":{
+		"sound": "glass"
+	},
+	"zombie:redstone_yellow_lamp":{
+		"sound": "glass"
+	},
+	"zombie:sonic": {
+		"textures": "zombie_sonic",
+		"sound": "stone"
+	},
+	"zombie:sonic1": {
+		"textures": "zombie_sonic1",
+		"sound": "stone"
+	},
+	"zombie:sonic2": {
+		"textures": "zombie_sonic2",
+		"sound": "stone"
+	},
+	"zombie:sonic3": {
+		"textures": "zombie_sonic3",
+		"sound": "grass"
+	},
+	"zombie:sonic4": {
+		"textures": "zombie_sonic4",
+		"sound": "stone"
+	},
+	"zombie:sonic5": {
+		"textures": {
+			"up": "zombie_sonic6",
+			"down": "zombie_sonic11",
+			"side": "zombie_sonic5"
+		},
+		"sound": "grass"
+	},
+	"zombie:sonic6": {
+		"textures": "zombie_sonic6",
+		"sound": "grass"
+	},
+	"zombie:sonic7": {
+		"textures": {
+			"up": "zombie_sonic12",
+			"down": "zombie_sonic6",
+			"side": "zombie_sonic7"
+		},
+		"sound": "grass"
+	},
+	"zombie:sonic8": {
+		"textures": "zombie_sonic8",
+		"sound": "stone"
+	},
+	"zombie:sonic9": {
+		"textures": "zombie_sonic9",
+		"sound": "stone"
+	},
+	"zombie:sonic10": {
+		"textures": "zombie_sonic10",
+		"sound": "stone"
+	},
+	"zombie:sonic11": {
+		"textures": "zombie_sonic11",
+		"sound": "stone"
+	},
+	"zombie:sonic12": {
+		"textures": "zombie_sonic12",
+		"sound": "grass"
+	},
+	"zombie:sonic13": {
+		"textures": "zombie_sonic13",
+		"sound": "stone"
+	},
+	"zombie:sonic14": {
+		"textures": "zombie_sonic14",
+		"sound": "stone"
+	},
+	"zombie:sonic15": {
+		"textures": "zombie_sonic15",
+		"sound": "stone"
+	},
+	"zombie:sonic16": {
+		"textures": "zombie_sonic16",
+		"sound": "stone"
+	},
+	"zombie:sonic17": {
+		"textures": {
+			"up": "zombie_sonic12",
+			"down": "zombie_sonic13",
+			"side": "zombie_sonic17"
+		}
+	},
+	"zombie:sonic18": {
+		"textures": "zombie_sonic18",
+		"sound": "stone"
+	},
+	"zombie:sonic19": {
+		"textures": {
+			"up": "zombie_sonic18",
+			"down": "zombie_sonic18",
+			"side": "zombie_sonic19"
+		}
+	},
+	"zombie:sonic22": {
+		"textures": "zombie_sonic22",
+		"sound": "stone"
+	},
+	"zombie:sonic20": {
+		"textures": "zombie_sonic20",
+		"sound": "stone"
+	},
+	"zombie:sonic21": {
+		"textures": "zombie_sonic21",
+		"sound": "stone"
+	},
+	"zombie:fools_gold": {
+		"textures": {
+			"up": "zombie_mario_lucky_top",
+			"down": "zombie_mario_lucky_top",
+			"north": "zombie_luckyblock_1",
+			"south": "zombie_luckyblock_2",
+			"west": "zombie_luckyblock_3",
+			"east": "zombie_luckyblock_4"
+		},
+		"sound": "amethyst_block"
+	},
+	"zombie:luckyblock": {
+		"textures": {
+			"up": "zombie_mario_lucky_top",
+			"down": "zombie_mario_lucky_top",
+			"north": "zombie_luckyblock_1",
+			"south": "zombie_luckyblock_2",
+			"west": "zombie_luckyblock_3",
+			"east": "zombie_luckyblock_4"
+		},
+		"sound": "amethyst_block"
+	},
+	"zombie:mario_rock": {
+		"textures": "zombie_mario1",
+		"sound": "metal"
+	},
+	"zombie:mario_square_rock": {
+		"textures": "zombie_mario2",
+		"sound": "metal"
+	},
+	"zombie:mario_question_block": {
+		"textures": "zombie_mario3",
+		"sound": "stone"
+	},
+	"zombie:mario_red_brick": {
+		"textures": "zombie_mario4",
+		"sound": "stone"
+	},
+	"zombie:mario_brown_brick": {
+		"textures": "zombie_mario5",
+		"sound": "stone"
+	},
+	"zombie:mario_tan_brick": {
+		"textures": "zombie_mario6",
+		"sound": "stone"
+	},
+	"zombie:mario_sand_brick": {
+		"textures": "zombie_mario7",
+		"sound": "stone"
+	},
+	"zombie:mario_yellow_questionmark": {
+		"textures": "zombie_mario8",
+		"sound": "stone"
+	},
+	"zombie:mariopipe2": {
+		"textures": "zombie_mariopipe2",
+		"sound": "metal"
+	},
+	"zombie:mario_exclamation_mark": {
+		"textures": "zombie_mario9",
+		"sound": "metal"
+	},
+	"zombie:mario_pow": {
+		"textures": "zombie_mario10",
+		"sound": "metal"
+	},
+	"zombie:mario_dungeon": {
+		"textures": "zombie_mario11",
+		"sound": "glass"
+	},
+	"zombie:mario_dungeon_brick": {
+		"textures": "zombie_mario12",
+		"sound": "glass"
+	},
+	"zombie:mario_sand": {
+		"textures": "zombie_mario13",
+		"sound": "glass"
+	},
+	"zombie:mariopipe1": {
+		"sound": "metal"
+	},
+	"zombie:dirty_musicblock": {
+		"sound": "stone",
+		"textures": "zombie_dirty_music_block"
+	},
+	"zombie:mario_goldbrick": {
+		"sound": "stone",
+		"textures": "zombie_gold_brick"
+	},
+	"zombie:mario_lightbluebrick": {
+		"sound": "stone",
+		"textures": "zombie_mario_lightblue_brick"
+	},
+	"zombie:mario_stone": {
+		"sound": "stone",
+		"textures": "zombie_mario14"
+	},
+	"zombie:mario_blue_rock": {
+		"textures": "zombie_mario15",
+		"sound": "stone"
+	},
+	"zombie:mario_blue_square": {
+		"textures": "zombie_mario16",
+		"sound": "stone"
+	},
+	"zombie:mario_blue_brick": {
+		"textures": "zombie_mario17",
+		"sound": "stone"
+	},
+	"zombie:mario_stonebrick": {
+		"textures": "zombie_mario18",
+		"sound": "stone"
+	},
+	"zombie:mario_green_rock": {
+		"textures": "zombie_mario19",
+		"sound": "stone"
+	},
+	"zombie:mario_green_brick": {
+		"textures": "zombie_mario20",
+		"sound": "stone"
+	},
+	"zombie:mario_green_stone": {
+		"textures": "zombie_mario21",
+		"sound": "stone"
+	},
+	"zombie:mario_red_square": {
+		"textures": "zombie_mario22",
+		"sound": "stone"
+	},
+	"zombie:mario_blue_square_rock": {
+		"textures": "zombie_mario23",
+		"sound": "stone"
+	},
+	"zombie:mario_green_square": {
+		"textures": "zombie_mario24",
+		"sound": "stone"
+	},
+	"zombie:mario_white_rock": {
+		"textures": "zombie_mario25",
+		"sound": "stone"
+	},
+	"mario_white_brick": {
+		"textures": "zombie_mario26",
+		"sound": "stone"
+	},
+	"zombie:mario_white_stone": {
+		"textures": "zombie_mario27",
+		"sound": "stone"
+	},
+	"zombie:mario_white_block": {
+		"textures": "zombie_mario28",
+		"sound": "stone"
+	},
+	"zombie:mario_oak_wood": {
+		"textures": "zombie_mario29",
+		"sound": "stone"
+	},
+	"zombie:mario_spruce_wood": {
+		"textures": {
+			"up": "stripped_spruce_log_top",
+			"down": "stripped_spruce_log_top",
+			"side": "zombie_mario30"
+		},
+		"sound": "stone"
+	},
+	"zombie:mario_oak_window": {
+		"textures": "zombie_mario31",
+		"sound": "stone"
+	},
+	"zombie:mario_spruce_window": {
+		"textures": "zombie_mario32",
+		"sound": "stone"
+	},
+	"zombie:music_note": {
+		"sound": "stone",
+		"textures": "zombie_music_note"
 	}
 }

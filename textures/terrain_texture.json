@@ -1886,6 +1886,308 @@
 		},
 		"zombie_creaking_block": {
 			"textures": "textures/mobheads/heads/creaking_block"
+		},
+		"redstone_black_lamp": {
+			"textures": "textures/blocks/redstone_lamps/black_redstone_lamp"
+		},
+		"redstone_black_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/black_redstone_lamp_on"
+		},
+		"redstone_blue_lamp": {
+			"textures": "textures/blocks/redstone_lamps/blue_redstone_lamp"
+		},
+		"redstone_blue_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/blue_redstone_lamp_on"
+		},
+		"redstone_brown_lamp": {
+			"textures": "textures/blocks/redstone_lamps/brown_redstone_lamp"
+		},
+		"redstone_brown_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/brown_redstone_lamp_on"
+		},
+		"redstone_cyan_lamp": {
+			"textures": "textures/blocks/redstone_lamps/cyan_redstone_lamp"
+		},
+		"redstone_cyan_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/cyan_redstone_lamp_on"
+		},
+		"redstone_gray_lamp": {
+			"textures": "textures/blocks/redstone_lamps/gray_redstone_lamp"
+		},
+		"redstone_gray_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/gray_redstone_lamp_on"
+		},
+		"redstone_green_lamp": {
+			"textures": "textures/blocks/redstone_lamps/green_redstone_lamp"
+		},
+		"redstone_green_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/green_redstone_lamp_on"
+		},
+		"redstone_lime_lamp": {
+			"textures": "textures/blocks/redstone_lamps/lime_redstone_lamp"
+		},
+		"redstone_lime_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/lime_redstone_lamp_on"
+		},
+		"redstone_light_blue_lamp": {
+			"textures": "textures/blocks/redstone_lamps/light_blue_redstone_lamp"
+		},
+		"redstone_light_blue_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/light_blue_redstone_lamp_on"
+		},
+		"redstone_light_gray_lamp": {
+			"textures": "textures/blocks/redstone_lamps/light_gray_redstone_lamp"
+		},
+		"redstone_light_gray_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/light_gray_redstone_lamp_on"
+		},
+		"redstone_magenta_lamp": {
+			"textures": "textures/blocks/redstone_lamps/magenta_redstone_lamp"
+		},
+		"redstone_magenta_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/magenta_redstone_lamp_on"
+		},
+		"redstone_orange_lamp": {
+			"textures": "textures/blocks/redstone_lamps/orange_redstone_lamp"
+		},
+		"redstone_orange_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/orange_redstone_lamp_on"
+		},
+		"redstone_pink_lamp": {
+			"textures": "textures/blocks/redstone_lamps/pink_redstone_lamp"
+		},
+		"redstone_pink_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/pink_redstone_lamp_on"
+		},
+		"redstone_purple_lamp": {
+			"textures": "textures/blocks/redstone_lamps/purple_redstone_lamp"
+		},
+		"redstone_purple_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/purple_redstone_lamp_on"
+		},
+		"redstone_red_lamp": {
+			"textures": "textures/blocks/redstone_lamps/red_redstone_lamp"
+		},
+		"redstone_red_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/red_redstone_lamp_on"
+		},
+		"redstone_white_lamp": {
+			"textures": "textures/blocks/redstone_lamps/white_redstone_lamp"
+		},
+		"redstone_white_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/white_redstone_lamp_on"
+		},
+		"redstone_yellow_lamp": {
+			"textures": "textures/blocks/redstone_lamps/yellow_redstone_lamp"
+		},
+		"redstone_yellow_lamp_on": {
+			"textures": "textures/blocks/redstone_lamps/yellow_redstone_lamp_on"
+		},
+		"zombie_sonic": {
+			"textures": "textures/blocks/sonic/sonic"
+		},
+		"zombie_sonic1": {
+			"textures": "textures/blocks/sonic/sonic1"
+		},
+		"zombie_sonic2": {
+			"textures": "textures/blocks/sonic/sonic2"
+		},
+		"zombie_sonic3": {
+			"textures": "textures/blocks/sonic/sonic3"
+		},
+		"zombie_sonic4": {
+			"textures": "textures/blocks/sonic/sonic4"
+		},
+		"zombie_sonic5": {
+			"textures": "textures/blocks/sonic/sonic5"
+		},
+		"zombie_sonic6": {
+			"textures": "textures/blocks/sonic/sonic6"
+		},
+		"zombie_sonic7": {
+			"textures": "textures/blocks/sonic/sonic7"
+		},
+		"zombie_sonic8": {
+			"textures": "textures/blocks/sonic/sonic8"
+		},
+		"zombie_sonic9": {
+			"textures": "textures/blocks/sonic/sonic9"
+		},
+		"zombie_sonic10": {
+			"textures": "textures/blocks/sonic/sonic10"
+		},
+		"zombie_sonic11": {
+			"textures": "textures/blocks/sonic/sonic11"
+		},
+		"zombie_sonic12": {
+			"textures": "textures/blocks/sonic/sonic12"
+		},
+		"zombie_sonic13": {
+			"textures": "textures/blocks/sonic/sonic13"
+		},
+		"zombie_sonic14": {
+			"textures": "textures/blocks/sonic/sonic14"
+		},
+		"zombie_sonic15": {
+			"textures": "textures/blocks/sonic/sonic15"
+		},
+		"zombie_sonic16": {
+			"textures": "textures/blocks/sonic/sonic16"
+		},
+		"zombie_sonic17": {
+			"textures": "textures/blocks/sonic/sonic17"
+		},
+		"zombie_sonic18": {
+			"textures": "textures/blocks/sonic/sonic18"
+		},
+		"zombie_sonic19": {
+			"textures": "textures/blocks/sonic/sonic19"
+		},
+		"zombie_sonic20": {
+			"textures": "textures/blocks/sonic/sonic20"
+		},
+		"zombie_sonic21": {
+			"textures": "textures/blocks/sonic/sonic21"
+		},
+		"zombie_sonic22": {
+			"textures": "textures/blocks/sonic/sonic22"
+		},
+		"zombie_luckyblock_1": {
+			"textures": "textures/blocks/mario/part_1"
+		},
+		"zombie_luckyblock_2": {
+			"textures": "textures/blocks/mario/part_2"
+		},
+		"zombie_luckyblock_3": {
+			"textures": "textures/blocks/mario/part_3"
+		},
+		"zombie_luckyblock_4": {
+			"textures": "textures/blocks/mario/part_4"
+		},
+		"zombie_mario_lucky_top": {
+			"textures": "textures/blocks/mario/luckyblock_top"
+		},
+		"zombie_mario1": {
+			"textures": "textures/blocks/mario/mario2"
+		},
+		"zombie_mario2": {
+			"textures": "textures/blocks/mario/mario3"
+		},
+		"zombie_mario3": {
+			"textures": "textures/blocks/mario/mario4"
+		},
+		"zombie_mario4": {
+			"textures": "textures/blocks/mario/mario5"
+		},
+		"zombie_mario5": {
+			"textures": "textures/blocks/mario/mario6"
+		},
+		"zombie_mario6": {
+			"textures": "textures/blocks/mario/mario7"
+		},
+		"zombie_mario7": {
+			"textures": "textures/blocks/mario/mario8"
+		},
+		"zombie_mario8": {
+			"textures": "textures/blocks/mario/mario9"
+		},
+		"zombie_mario9": {
+			"textures": "textures/blocks/mario/mario10"
+		},
+		"zombie_mario10": {
+			"textures": "textures/blocks/mario/mario11"
+		},
+		"zombie_mario11": {
+			"textures": "textures/blocks/mario/mario12"
+		},
+		"zombie_mario12": {
+			"textures": "textures/blocks/mario/mario13"
+		},
+		"zombie_mario13": {
+			"textures": "textures/blocks/mario/mario14"
+		},
+		"zombie_mariopipe1": {
+			"textures": "textures/blocks/mario/mariobottompipe"
+		},
+		"zombie_gold_brick": {
+			"textures": "textures/blocks/mario/gold_brick"
+		},
+		"zombie_mario_lightblue_brick": {
+			"textures": "textures/blocks/mario/lightblue_brick"
+		},
+		"zombie_music_note": {
+			"textures": "textures/blocks/mario/music_note"
+		},
+		"zombie_mario2.4": {
+			"textures": "textures/blocks/mario/mario2.4"
+		},
+		"zombie_mario2.5": {
+			"textures": "textures/blocks/mario/mario2.5"
+		},
+		"zombie_mariopipetop": {
+			"textures": "textures/blocks/mario/mariotoppipe"
+		},
+		"zombie_mario14": {
+			"textures": "textures/blocks/mario/mario15"
+		},
+		"zombie_mario15": {
+			"textures": "textures/blocks/mario/mario16"
+		},
+		"zombie_mario16": {
+			"textures": "textures/blocks/mario/mario17"
+		},
+		"zombie_mario17": {
+			"textures": "textures/blocks/mario/mario18"
+		},
+		"zombie_mario18": {
+			"textures": "textures/blocks/mario/mario19"
+		},
+		"zombie_mario19": {
+			"textures": "textures/blocks/mario/mario20"
+		},
+		"zombie_mario20": {
+			"textures": "textures/blocks/mario/mario21"
+		},
+		"zombie_mario21": {
+			"textures": "textures/blocks/mario/mario22"
+		},
+		"zombie_mario22": {
+			"textures": "textures/blocks/mario/mario23"
+		},
+		"zombie_mario23": {
+			"textures": "textures/blocks/mario/mario24"
+		},
+		"zombie_mario24": {
+			"textures": "textures/blocks/mario/mario25"
+		},
+		"zombie_mario25": {
+			"textures": "textures/blocks/mario/mario26"
+		},
+		"zombie_mario26": {
+			"textures": "textures/blocks/mario/mario27"
+		},
+		"zombie_mario27": {
+			"textures": "textures/blocks/mario/mario28"
+		},
+		"zombie_mario28": {
+			"textures": "textures/blocks/mario/mario29"
+		},
+		"zombie_mario29": {
+			"textures": "textures/blocks/mario/mario30"
+		},
+		"zombie_mario30": {
+			"textures": "textures/blocks/mario/mario31"
+		},
+		"zombie_mario31": {
+			"textures": "textures/blocks/mario/mario32"
+		},
+		"zombie_mario32": {
+			"textures": "textures/blocks/mario/mario33"
+		},
+		"zombie_dirty_music_block": {
+			"textures": "textures/blocks/mario/dirty_notes"
 		}
+
+		
 	}
 }
