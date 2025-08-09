@@ -2186,8 +2186,218 @@
 		},
 		"zombie_dirty_music_block": {
 			"textures": "textures/blocks/mario/dirty_notes"
-		}
-
-		
-	}
+		},
+		"obsidian_white": {
+      "textures": "textures/blocks/obby/obsidian_white"
+    },
+    "obsidian_orange": {
+      "textures": "textures/blocks/obby/obsidian_orange"
+    },
+    "obsidian_magenta": {
+      "textures": "textures/blocks/obby/obsidian_magenta"
+    },
+    "obsidian_light_blue": {
+      "textures": "textures/blocks/obby/obsidian_light_blue"
+    },
+    "obsidian_yellow": {
+      "textures": "textures/blocks/obby/obsidian_yellow"
+    },
+    "obsidian_lime": {
+      "textures": "textures/blocks/obby/obsidian_lime"
+    },
+    "obsidian_pink": {
+      "textures": "textures/blocks/obby/obsidian_pink"
+    },
+    "obsidian_gray": {
+      "textures": "textures/blocks/obby/obsidian_gray"
+    },
+    "obsidian_light_gray": {
+      "textures": "textures/blocks/obby/obsidian_light_gray"
+    },
+    "obsidian_cyan": {
+      "textures": "textures/blocks/obby/obsidian_cyan"
+    },
+    "obsidian_purple": {
+      "textures": "textures/blocks/obby/obsidian_purple"
+    },
+    "obsidian_blue": {
+      "textures": "textures/blocks/obby/obsidian_blue"
+    },
+    "obsidian_brown": {
+      "textures": "textures/blocks/obby/obsidian_brown"
+    },
+    "obsidian_green": {
+      "textures": "textures/blocks/obby/obsidian_green"
+    },
+    "obsidian_red": {
+      "textures": "textures/blocks/obby/obsidian_red"
+    },
+    "obsidian_black": {
+      "textures": "textures/blocks/obby/obsidian_black"
+    },
+	 "sea_lantern_white": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_white"
+    },
+    "sea_lantern_orange": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_orange"
+    },
+    "sea_lantern_magenta": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_magenta"
+    },
+    "sea_lantern_light_blue": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_light_blue"
+    },
+    "sea_lantern_yellow": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_yellow"
+    },
+    "sea_lantern_lime": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_lime"
+    },
+    "sea_lantern_pink": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_pink"
+    },
+    "sea_lantern_gray": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_gray"
+    },
+    "sea_lantern_light_gray": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_light_gray"
+    },
+    "sea_lantern_cyan": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_cyan"
+    },
+    "sea_lantern_purple": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_purple"
+    },
+    "sea_lantern_blue": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_blue"
+    },
+    "sea_lantern_brown": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_brown"
+    },
+    "sea_lantern_green": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_green"
+    },
+    "sea_lantern_red": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_red"
+    },
+    "sea_lantern_black": {
+      "textures": "textures/blocks/sea_lanterns/sea_lantern_black"
+    },
+	 "crying_obsidian_white": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_white"
+    },
+    "crying_obsidian_orange": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_orange"
+    },
+    "crying_obsidian_magenta": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_magenta"
+    },
+    "crying_obsidian_light_blue": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_light_blue"
+    },
+    "crying_obsidian_yellow": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_yellow"
+    },
+    "crying_obsidian_lime": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_lime"
+    },
+    "crying_obsidian_pink": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_pink"
+    },
+    "crying_obsidian_gray": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_gray"
+    },
+    "crying_obsidian_light_gray": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_light_gray"
+    },
+    "crying_obsidian_cyan": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_cyan"
+    },
+    "crying_obsidian_purple": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_purple"
+    },
+    "crying_obsidian_blue": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_blue"
+    },
+    "crying_obsidian_brown": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_brown"
+    },
+    "crying_obsidian_green": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_green"
+    },
+    "crying_obsidian_red": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_red"
+    },
+    "crying_obsidian_black": {
+      "textures": "textures/blocks/crying_obsidian/crying_obsidian_black"
+    },
+	"glowing_obsidian_white": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_white"
+    },
+    "glowing_obsidian_light_gray": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_light_gray"
+    },
+    "glowing_obsidian_gray": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_gray"
+    },
+    "glowing_obsidian_black": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_black"
+    },
+    "glowing_obsidian_brown": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_brown"
+    },
+    "glowing_obsidian_red": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_red"
+    },
+    "glowing_obsidian_orange": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_orange"
+    },
+    "glowing_obsidian_yellow": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_yellow"
+    },
+    "glowing_obsidian_lime": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_lime"
+    },
+    "glowing_obsidian_green": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_green"
+    },
+    "glowing_obsidian_cyan": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_cyan"
+    },
+    "glowing_obsidian_light_blue": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_light_blue"
+    },
+    "glowing_obsidian_blue": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_blue"
+    },
+    "glowing_obsidian_purple": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_purple"
+    },
+    "glowing_obsidian_magenta": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_magenta"
+    },
+    "glowing_obsidian_pink": {
+      "textures": "textures/blocks/glowing_obsidian/glowing_obsidian_pink"
+    },
+	 "shroomlight_white":{ 
+	  "textures": "textures/blocks/shroom_light/shroomlight_white" 
+	},
+    "shroomlight_light_gray":{ 
+		"textures": "textures/blocks/shroom_light/shroomlight_light_gray" 
+	},
+    "shroomlight_gray":        { "textures": "textures/blocks/shroom_light/shroomlight_gray" },
+    "shroomlight_black":       { "textures": "textures/blocks/shroom_light/shroomlight_black" },
+    "shroomlight_brown":       { "textures": "textures/blocks/shroom_light/shroomlight_brown" },
+    "shroomlight_red":         { "textures": "textures/blocks/shroom_light/shroomlight_red" },
+    "shroomlight_orange":      { "textures": "textures/blocks/shroom_light/shroomlight_orange" },
+    "shroomlight_yellow":      { "textures": "textures/blocks/shroom_light/shroomlight_yellow" },
+    "shroomlight_lime":        { "textures": "textures/blocks/shroom_light/shroomlight_lime" },
+    "shroomlight_green":       { "textures": "textures/blocks/shroom_light/shroomlight_green" },
+    "shroomlight_cyan":        { "textures": "textures/blocks/shroom_light/shroomlight_cyan" },
+    "shroomlight_light_blue":  { "textures": "textures/blocks/shroom_light/shroomlight_light_blue" },
+    "shroomlight_blue":        { "textures": "textures/blocks/shroom_light/shroomlight_blue" },
+    "shroomlight_purple":      { "textures": "textures/blocks/shroom_light/shroomlight_purple" },
+    "shroomlight_magenta":     { "textures": "textures/blocks/shroom_light/shroomlight_magenta" },
+    "shroomlight_pink":        { "textures": "textures/blocks/shroom_light/shroomlight_pink" }
+  }
 }

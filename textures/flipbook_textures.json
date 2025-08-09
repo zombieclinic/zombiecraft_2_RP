@@ -113,5 +113,213 @@
         ],
         "ticks_per_frame": 5,
         "blend_frames": true
+    },
+     {
+      "atlas_tile": "sea_lantern_white",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_white",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_orange",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_orange",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_magenta",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_magenta",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_light_blue",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_light_blue",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_yellow",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_yellow",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_lime",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_lime",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_pink",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_pink",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_gray",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_gray",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_light_gray",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_light_gray",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_cyan",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_cyan",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_purple",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_purple",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_blue",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_blue",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_brown",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_brown",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_green",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_green",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_red",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_red",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
+    },
+    {
+      "atlas_tile": "sea_lantern_black",
+      "flipbook_texture": "textures/blocks/sea_lanterns/sea_lantern_black",
+       "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 2,
+        "blend_frames": true
     }
 ]

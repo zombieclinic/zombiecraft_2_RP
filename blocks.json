@@ -1430,27 +1430,27 @@
 	"zombie:redstone_yellow_lamp":{
 		"sound": "glass"
 	},
-	"zombie:sonic": {
+	"zombie:gold_piller": {
 		"textures": "zombie_sonic",
 		"sound": "stone"
 	},
-	"zombie:sonic1": {
+	"zombie:sonic_grass": {
 		"textures": "zombie_sonic1",
 		"sound": "stone"
 	},
-	"zombie:sonic2": {
+	"zombie:sonic_gold_brick": {
 		"textures": "zombie_sonic2",
 		"sound": "stone"
 	},
-	"zombie:sonic3": {
+	"zombie:sonic_dirt": {
 		"textures": "zombie_sonic3",
 		"sound": "grass"
 	},
-	"zombie:sonic4": {
+	"zombie:sonic_chiseled_gold_block": {
 		"textures": "zombie_sonic4",
 		"sound": "stone"
 	},
-	"zombie:sonic5": {
+	"zombie:shade_dirt": {
 		"textures": {
 			"up": "zombie_sonic6",
 			"down": "zombie_sonic11",
@@ -1458,11 +1458,11 @@
 		},
 		"sound": "grass"
 	},
-	"zombie:sonic6": {
+	"zombie:sonic_rock": {
 		"textures": "zombie_sonic6",
 		"sound": "grass"
 	},
-	"zombie:sonic7": {
+	"zombie:sonic_grass_dirt": {
 		"textures": {
 			"up": "zombie_sonic12",
 			"down": "zombie_sonic6",
@@ -1470,69 +1470,69 @@
 		},
 		"sound": "grass"
 	},
-	"zombie:sonic8": {
+	"zombie:sonic_gold_block": {
 		"textures": "zombie_sonic8",
 		"sound": "stone"
 	},
-	"zombie:sonic9": {
+	"zombie:sonic_gold_rock": {
 		"textures": "zombie_sonic9",
 		"sound": "stone"
 	},
-	"zombie:sonic10": {
+	"zombie:sonic_dark_rock": {
 		"textures": "zombie_sonic10",
 		"sound": "stone"
 	},
-	"zombie:sonic11": {
+	"zombie:sonic_stone_dirt": {
 		"textures": "zombie_sonic11",
 		"sound": "stone"
 	},
-	"zombie:sonic12": {
+	"zombie:sonic_long_grass": {
 		"textures": "zombie_sonic12",
 		"sound": "grass"
 	},
-	"zombie:sonic13": {
+	"zombie:purple_dirt": {
 		"textures": "zombie_sonic13",
 		"sound": "stone"
 	},
-	"zombie:sonic14": {
+	"zombie:sonic_metal": {
 		"textures": "zombie_sonic14",
 		"sound": "stone"
 	},
-	"zombie:sonic15": {
+	"zombie:sonic_light_metal": {
 		"textures": "zombie_sonic15",
 		"sound": "stone"
 	},
-	"zombie:sonic16": {
+	"zombie:sonic_stone": {
 		"textures": "zombie_sonic16",
 		"sound": "stone"
 	},
-	"zombie:sonic17": {
+	"zombie:sonic_purple_grass": {
 		"textures": {
 			"up": "zombie_sonic12",
 			"down": "zombie_sonic13",
 			"side": "zombie_sonic17"
 		}
 	},
-	"zombie:sonic18": {
+	"zombie:sonic_chiseled_metal": {
 		"textures": "zombie_sonic18",
 		"sound": "stone"
 	},
-	"zombie:sonic19": {
+	"zombie:sonic_construction": {
 		"textures": {
 			"up": "zombie_sonic18",
 			"down": "zombie_sonic18",
 			"side": "zombie_sonic19"
 		}
 	},
-	"zombie:sonic22": {
+	"zombie:sonic_Construction_top": {
 		"textures": "zombie_sonic22",
 		"sound": "stone"
 	},
-	"zombie:sonic20": {
+	"zombie:sonic_bird_pillar": {
 		"textures": "zombie_sonic20",
 		"sound": "stone"
 	},
-	"zombie:sonic21": {
+	"zombie:sonic_turtle_gold_block": {
 		"textures": "zombie_sonic21",
 		"sound": "stone"
 	},
