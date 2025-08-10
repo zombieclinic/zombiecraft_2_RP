@@ -1317,6 +1317,147 @@
 		},
 		"zombie_creaking_icon": {
 			"textures" : "textures/mobheads/items/creaking_icon"
+		},
+		"zombie_redbull": {
+			"textures": "textures/items/food/can"
+		},
+		"zombie_mushmush": {
+			"textures": "textures/items/food/mushmush"
+		},
+		"zombie_icecoffie": {
+			"textures": "textures/items/food/icecoffie"
+		},
+		"zombie_zombbeer": {
+			"textures": "textures/items/food/zombbeer"
+		},
+		"zombie_joint": {
+			"textures": "textures/items/food/joint"
+		},
+		"zombie_taco": {
+			"textures": "textures/items/food/taco"
+		},
+		"zombie_sushi": {
+			"textures": "textures/items/food/sushi"
+		},
+		"zombie_burger": {
+			"textures": "textures/items/food/burger"
+		},
+		"zombie_tortilla": {
+			"textures": "textures/items/food/tortilla"
+		},"zombie_roman_noodlesitem": {
+			"textures": "textures/items/food/roman_noodles"
+		},
+		"zombie_fries": {
+			"textures": [
+				"textures/items/food/fries"
+			]
+		},
+		"zombie_blue_peeper": {
+			"textures": [
+				"textures/items/food/peeper_blue_meat"
+			]
+		},
+		"zombie_purple_peeper": {
+			"textures": [
+				"textures/items/food/peeper_purple_meat"
+			]
+		},
+		"zombie_red_peeper": {
+			"textures": [
+				"textures/items/food/red_peeper_meat"
+			]
+		},
+		"zombie_green_peeper": {
+			"textures": [
+				"textures/items/food/peeper_green_meat"
+			]
+		},
+		"zombie_apple_pie": {
+			"textures": "textures/items/food/apple_pie"
+		},
+		"zombie_apple_cider": {
+			"textures": "textures/items/food/apple_cider"
+		},
+		"zombie_bacon": {
+			"textures": "textures/items/food/bacon"
+		},
+		"zombie_fried_egg": {
+			"textures": "textures/items/food/fried_egg"
+		},
+		"zombie_bacon_and_eggs": {
+			"textures": "textures/items/food/bacon_and_eggs"
+		},
+		"zombie_chicken_sandwich": {
+			"textures": "textures/items/food/chicken_sandwich"
+		},
+		"zombie_chocolate": {
+			"textures": "textures/items/food/chocolate"
+		},
+		"zombie_chocolate_pie": {
+			"textures": "textures/items/food/chocolate_pie"
+		},
+		"zombie_cooked_bacon": {
+			"textures": "textures/items/food/cooked_bacon"
+		},
+		"zombie_steak_and_potatoes": {
+			"textures": "textures/items/food/steak_and_potatoes"
+		},
+		"zombie_avocado": {
+			"textures": "textures/items/food/avocado"
+		},
+		"zombie_avocado_toast": {
+			"textures": "textures/items/food/avocado_toast"
+		},
+		"zombie_blt": {
+			"textures": "textures/items/food/blt"
+		},
+		"zombie_cheese": {
+			"textures": "textures/items/food/cheese"
+		},
+		"zombie_cheese_cake": {
+			"textures": "textures/items/food/cheese_cake"
+		},
+		"zombie_donut": {
+			"textures": "textures/items/food/donut"
+		},
+		"zombie_fish_and_chips": {
+			"textures": "textures/items/food/fish_and_chips"
+		},
+		"zombie_hot_cocoa": {
+			"textures": "textures/items/food/hot_cocoa"
+		},
+		"zombie_lemonade": {
+			"textures": "textures/items/food/lemonade"
+		},
+		"zombie_pizza": {
+			"textures": "textures/items/food/pizza"
+		},
+		"zombie_tea": {
+			"textures": "textures/items/food/tea"
+		},
+		"zombie_shepherds_pie": {
+			"textures": "textures/items/food/shepherds_pie"
+		},
+		"zombie_mutton_wrap": {
+			"textures": "textures/items/food/mutton_wrap"
+		},
+		"zombie_pasta_with_meatballs": {
+			"textures": "textures/items/food/pasta_with_meatballs"
+		},
+		"zombie_hotdog": {
+			"textures": "textures/items/food/hotdog"
+		},
+		"zombie_knife": {
+			"textures": "textures/items/food/knife"
+		},
+		"zombie_syrup": {
+			"textures": "textures/items/food/syrup"
+		},
+		"zombie_seafoodstew": {
+			"textures": "textures/items/food/seafoodstew"
+		},
+		"zombie_sharkmeat": {
+			"textures": "textures/items/food/shark_meat"
 		}
 	}
 }
