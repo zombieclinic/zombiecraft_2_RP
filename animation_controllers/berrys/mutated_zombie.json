@@ -1,0 +1,62 @@
+//bridge-file-version: #8
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.mutated_zombie": {
+			"initial_state": "spawn",
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"walking": "query.ground_speed"
+						},
+						{
+							"boss": "query.skin_id == 5"
+						}
+					],
+					"animations": [
+						{
+							"idle": "(1.0)"
+						}
+					]
+				},
+				"walking": {
+					"animations": [
+						{
+							"move": "(1.0)"
+						}
+					],
+					"transitions": [
+						{
+							"default": "!query.ground_speed"
+						}
+					]
+				},
+				"spawn": {
+					"animations": [
+						{
+							"spawn": "(1.0)"
+						}
+					],
+					"transitions": [
+						{
+							"default": "query.all_animations_finished"
+						}
+					]
+				},
+				"boss": {
+					"sound_effects": [
+						{
+							"effect": "boss"
+						}
+					],
+					"animations": [
+						{
+							"boom": "(1.0)"
+						}
+					]
+				}
+			}
+		}
+	}
+}

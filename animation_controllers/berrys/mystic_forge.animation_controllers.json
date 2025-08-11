@@ -1,0 +1,67 @@
+//bridge-file-version: #7
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.mystic_forge.general": {
+			"initial_state": "idle",
+			"states": {
+				"idle": {
+					"animations": [
+						"idle"
+					],
+					"transitions": [
+						{
+							"active": "query.variant==0"
+						},
+						{
+							"active": "query.variant==2"
+						},
+						{
+							"active": "query.variant==3"
+						},
+						{
+							"active": "query.variant==4"
+						},
+						{
+							"active": "query.variant==5"
+						},
+						{
+							"active": "query.variant==6"
+						},
+						{
+							"active": "query.variant==7"
+						},
+						{
+							"boom": "query.skin_id==1"
+						}
+					]
+				},
+				"active": {
+					"animations": [
+						"active"
+					],
+					"transitions": [
+						{
+							"idle": "query.any_animation_finished"
+						},
+						{
+							"boom": "query.skin_id==1"
+						}
+					],
+					"sound_effects": [
+						{
+							"effect": "forge"
+						}
+					]
+				},
+				"boom": {
+					"animations": [
+						{
+							"boom": "(1.0)"
+						}
+					]
+				}
+			}
+		}
+	}
+}

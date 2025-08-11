@@ -1,0 +1,102 @@
+//bridge-file-version: #30
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.zombie_boss": {
+			"initial_state": "summon",
+			"states": {
+				"default": {
+					"animations": [
+						{
+							"idle": "(1.0)"
+						}
+					],
+					"transitions": [
+						{
+							"move": "query.ground_speed"
+						},
+						{
+							"sheared": "query.is_sheared&&query.any_animation_finished"
+						},
+						{
+							"throw": "query.is_charged"
+						},
+						{
+							"summon": "query.is_casting"
+						}
+					]
+				},
+				"move": {
+					"animations": [
+						{
+							"idle": "(1.0)"
+						},
+						{
+							"move": "(1.0)"
+						}
+					],
+					"transitions": [
+						{
+							"default": "!query.ground_speed"
+						},
+						{
+							"sheared": "query.is_sheared&&query.any_animation_finished"
+						},
+						{
+							"summon": "query.is_casting"
+						},
+						{
+							"throw": "query.is_charged"
+						}
+					]
+				},
+				"sheared": {
+					"animations": [
+						{
+							"spin": "(1.0)"
+						}
+					],
+					"transitions": [
+						{
+							"default": "!query.is_sheared&&query.any_animation_finished"
+						}
+					],
+					"sound_effects": [
+						{
+							"effect": "spin"
+						}
+					]
+				},
+				"summon": {
+					"animations": [
+						{
+							"summoning": "(1.0)"
+						}
+					],
+					"transitions": [
+						{
+							"default": "query.all_animations_finished"
+						}
+					]
+				},
+				"throw": {
+					"animations": [
+						{
+							"throw": "(1.0)"
+						}
+					],
+					"transitions": [
+						{
+							"Default": "!query.is_charged&&query.any_animation_finished"
+						}
+					],
+					"sound_effects": [
+						{
+							"effect": "throw"
+						}
+					]
+				}
+			}
+		}
+	}
+}

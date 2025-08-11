@@ -39,6 +39,90 @@
 			},
 			"pitch": [0.8, 1.2],
 			"volume": 1
+		},
+		"zombie:bloater": {
+			"events": {
+				"ambient": "mob.bloater.say",
+				"death": "mob.bloater.death",
+				"hurt": "mob.bloater.hurt",
+				"step": {
+					"pitch": 1,
+					"sound": "mob.bloater.step",
+					"volume": 0.45
+				}
+			},
+			"pitch": [0.8, 1.2],
+			"volume": 1
+		},
+		"zombie:puker": {
+			"events": {
+				"ambient": "mob.puker.say",
+				"death": "mob.puker.death",
+				"hurt": "mob.puker.hurt",
+				"step": {
+					"pitch": 1,
+					"sound": "mob.puker.step",
+					"volume": 0.45
+				}
+			},
+			"pitch": [0.8, 1.2],
+			"volume": 1
+		},
+		"zombie:z_dog": {
+			"events": {
+				"ambient": "mob.z_dog.say",
+				"death": "mob.z_dog.death",
+				"hurt": "mob.z_dog.hurt",
+				"step": {
+					"pitch": 1,
+					"sound": "mob.z_dog.step",
+					"volume": 0.45
+				}
+			},
+			"pitch": [0.8, 1.2],
+			"volume": 1
+		},
+		"zombie:charged_zombie": {
+			"events": {
+				"ambient": "mob.mzombie.say",
+				"death": "mob.mzombie.death",
+				"hurt": "mob.mzombie.hurt",
+				"step": {
+					"pitch": 1,
+					"sound": "mob.mzombie.step",
+					"volume": 0.45
+				}
+			},
+			"pitch": [0.8, 1.2],
+			"volume": 1
+		},
+		"zombie:mutated_drowned": {
+			"events": {
+				"ambient": "mob.mzombie.say",
+				"death": "mob.mzombie.death",
+				"hurt": "mob.mzombie.hurt",
+				"step": {
+					"pitch": 1,
+					"sound": "mob.mzombie.step",
+					"volume": 0.45
+				}
+			},
+			"pitch": [0.8, 1.2],
+			"volume": 1
+		},
+		"zombie:mutated_zombie": {
+			"events": {
+				"ambient": "mob.mzombie.say",
+				"death": "mob.mzombie.death",
+				"hurt": "mob.mzombie.hurt",
+				"step": {
+					"pitch": 1,
+					"sound": "mob.mzombie.step",
+					"volume": 0.45
+				}
+			},
+			"pitch": [0.8, 1.2],
+			"volume": 1
 		}
 	  }
 	}

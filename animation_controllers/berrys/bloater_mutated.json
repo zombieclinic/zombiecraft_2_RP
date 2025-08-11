@@ -1,0 +1,101 @@
+//bridge-file-version: #13
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.bloated_mutated": {
+			"initial_state": "spawn",
+			"states": {
+				"spawn": {
+					"animations": [
+						{
+							"spawn": "(1.0)"
+						}
+					],
+					"transitions": [
+						{
+							"idle": "query.all_animations_finished"
+						},
+						{
+							"explode": "query.is_baby"
+						}
+					]
+				},
+				"idle": {
+					"animations": [
+						{
+							"idle": "(1.0)"
+						}
+					],
+					"transitions": [
+						{
+							"move": "query.ground_speed"
+						},
+						{
+							"explode": "query.is_baby"
+						}
+					]
+				},
+				"move": {
+					"animations": [
+						{
+							"move": "(1.0)"
+						}
+					],
+					"transitions": [
+						{
+							"idle": "!query.ground_speed"
+						},
+						{
+							"explode": "query.is_baby"
+						}
+					]
+				},
+				"explode": {
+					"animations": [
+						{
+							"explode": "(1.0)"
+						},
+						{
+							"move": "(1.0)"
+						}
+					],
+					"transitions": [
+						{
+							"idle": "!query.is_baby"
+						},
+						{
+							"idle": "!query.is_baby"
+						}
+					],
+					"sound_effects": [
+						{
+							"effect": "charge"
+						}
+					]
+				}
+			}
+		},
+		"controller.animation.z_boss.summon": {
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"summon": "query.is_casting"
+						}
+					]
+				},
+				"summon": {
+					"animations": [
+						"summoning"
+					],
+					"transitions": [
+						{
+							"default": "!query.is_casting&&query.any_animation_finished"
+						}
+					]
+				}
+			},
+			"initial_state": "default"
+		}
+	}
+}
