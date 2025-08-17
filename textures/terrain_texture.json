@@ -2398,6 +2398,9 @@
     "shroomlight_blue":        { "textures": "textures/blocks/shroom_light/shroomlight_blue" },
     "shroomlight_purple":      { "textures": "textures/blocks/shroom_light/shroomlight_purple" },
     "shroomlight_magenta":     { "textures": "textures/blocks/shroom_light/shroomlight_magenta" },
-    "shroomlight_pink":        { "textures": "textures/blocks/shroom_light/shroomlight_pink" }
+    "shroomlight_pink":        { "textures": "textures/blocks/shroom_light/shroomlight_pink" },
+	"zombie_alligator_egg": {
+		"textures": "textures/blocks/eggs/alligator_egg"
+	}
   }
 }

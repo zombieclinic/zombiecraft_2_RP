@@ -1,0 +1,40 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "zombie:alligator",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entites/alligator/alligator"
+			},
+			"geometry": {
+				"default": "geometry.alligator"
+			},
+			"render_controllers": [
+				"controller.render.default"
+			],
+			"spawn_egg": {
+				"base_color": "#2a383a",
+				"overlay_color": "#ddcead"
+			},
+			"animations": {
+				"sleep": "animation.alligator.sleep",
+				"idle": "animation.alligator.idle",
+				"walk": "animation.alligator.walk",
+				"controller": "controller.animation.alligator",
+				"swim": "animation.alligator.swim",
+				"attack": "animation.alligator.attack",
+				"look_at_target": "animation.common.look_at_target",
+				"head_contoller": "controller.animation.alligator.head"
+			},
+			"scripts": {
+				"animate": [
+					"controller",
+					"head_contoller"
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.alligator": {
+			"initial_state": "default",
+			"states": {
+				"default": {
+					"animations": [
+						"idle"
+					],
+					"transitions": [
+						{
+							"walk": "query.ground_speed"
+						},
+						{
+							"swim": "query.is_swimming"
+						},
+						{
+							"sleep": "query.is_sleeping"
+						}
+					]
+				},
+				"walk": {
+					"animations": [
+						"walk"
+					],
+					"transitions": [
+						{
+							"default": "!query.ground_speed"
+						},
+						{
+							"swim": "query.is_swimming"
+						},
+						{
+							"sleep": "query.is_sleeping"
+						}
+					]
+				},
+				"swim": {
+					"animations": [
+						"swim"
+					],
+					"transitions": [
+						{
+							"default": "!query.is_swimming"
+						},
+						{
+							"sleep": "query.is_sleeping"
+						}
+					]
+				},
+				"sleep": {
+					"animations": [
+						"sleep"
+					],
+					"transitions": [
+						{
+							"default": "!query.is_sleeping"
+						}
+					]
+				}
+			}
+		},
+		"controller.animation.alligator.head": {
+			"initial_state": "default",
+			"states": {
+				"default": {
+					"animations": [
+						"look_at_target"
+					],
+					"transitions": [
+						{
+							"attack": "variable.attack_time"
+						}
+					]
+				},
+				"attack": {
+					"animations": [
+						"attack"
+					],
+					"transitions": [
+						{
+							"default": "query.all_animations_finished"
+						}
+					]
+				}
+			}
+		}
+	}
+}

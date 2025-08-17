@@ -324,6 +324,53 @@
 			"sounds": [
 				"sounds/mob/zomboss/preboss"
 			]
+		},
+		"mob.mzombie.say": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/mob/mzombie/say1",
+				"sounds/mob/mzombie/say2",
+				"sounds/mob/mzombie/say3",
+				"sounds/mob/mzombie/say4",
+				"sounds/mob/mzombie/say5",
+				"sounds/mob/mzombie/say6",
+				"sounds/mob/mzombie/say7",
+				"sounds/mob/mzombie/say8",
+				"sounds/mob/mzombie/say9",
+				"sounds/mob/mzombie/say10",
+				"sounds/mob/mzombie/say11",
+				"sounds/mob/mzombie/say12",
+				"sounds/mob/mzombie/say13"
+			]
+		},
+		"mob.mzombie.death": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/mob/mzombie/death1",
+				"sounds/mob/mzombie/death2",
+				"sounds/mob/mzombie/death3",
+				"sounds/mob/mzombie/death4",
+				"sounds/mob/mzombie/death5",
+				"sounds/mob/mzombie/death6"
+			]
+		},
+		"mob.mzombie.hurt": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/mob/mzombie/hurt1",
+				"sounds/mob/mzombie/hurt2",
+				"sounds/mob/mzombie/hurt3",
+				"sounds/mob/mzombie/hurt4",
+				"sounds/mob/mzombie/hurt5",
+				"sounds/mob/mzombie/hurt6",
+				"sounds/mob/mzombie/hurt7",
+				"sounds/mob/mzombie/hurt8",
+				"sounds/mob/mzombie/hurt9",
+				"sounds/mob/mzombie/hurt10"
+			]
 		}
 	}
 }

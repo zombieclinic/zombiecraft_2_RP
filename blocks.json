@@ -78,84 +78,84 @@
 	},
 	"zombie:atlantis_solid_white": {
 		"textures": "zombie_white_atlantis_solid",
-		"sound": "glass",
+		"sound": "stone",
 		"isotropic": true,
 		"brightness_gamma": 0,
 		"carried_textures": "zombie_white_atlantis_solid"
 	},
 	"zombie:atlantis_solid_yellow": {
 		"textures": "zombie_yellow_atlantis_solid",
-		"sound": "glass",
+		"sound": "stone",
 		"isotropic": true,
 		"brightness_gamma": 0,
 		"carried_textures": "zombie_yellow_atlantis_solid"
 	},
 	"zombie:atlantis_solid_green": {
 		"textures": "zombie_green_atlantis_solid",
-		"sound": "glass",
+		"sound": "stone",
 		"isotropic": true,
 		"brightness_gamma": 0,
 		"carried_textures": "zombie_green_atlantis_solid"
 	},
 	"zombie:atlantis_solid_purple": {
 		"textures": "zombie_purple_atlantis_solid",
-		"sound": "glass",
+		"sound": "stone",
 		"isotropic": true,
 		"brightness_gamma": 0,
 		"carried_textures": "zombie_purple_atlantis_solid"
 	},
 	"zombie:atlantis_solid_blue": {
 		"textures": "zombie_blue_atlantis_solid",
-		"sound": "glass",
+		"sound": "stone",
 		"isotropic": true,
 		"brightness_gamma": 0,
 		"carried_textures": "zombie_blue_atlantis_solid"
 	},
 	"zombie:atlantis_solid_cyan": {
 		"textures": "zombie_cyan_atlantis_solid",
-		"sound": "glass",
+		"sound": "stone",
 		"isotropic": true,
 		"brightness_gamma": 0,
 		"carried_textures": "zombie_cyan_atlantis_solid"
 	},
 	"zombie:atlantis_solid_orange": {
 		"textures": "zombie_orange_atlantis_solid",
-		"sound": "glass",
+		"sound": "stone",
 		"isotropic": true,
 		"brightness_gamma": 0,
 		"carried_textures": "zombie_orange_atlantis_solid"
 	},
 	"zombie:atlantis_solid_magenta": {
 		"textures": "zombie_magenta_atlantis_solid",
-		"sound": "glass",
+		"sound": "stone",
 		"isotropic": true,
 		"brightness_gamma": 0,
 		"carried_textures": "zombie_magenta_atlantis_solid"
 	},
 	"zombie:atlantis_solid_black": {
 		"textures": "zombie_black_atlantis_solid",
-		"sound": "glass",
+		"sound": "stone",
 		"isotropic": true,
 		"brightness_gamma": 0,
 		"carried_textures": "zombie_black_atlantis_solid"
 	},
 	"zombie:atlantis_solid_pink": {
 		"textures": "zombie_pink_atlantis_solid",
-		"sound": "glass",
+		"sound": "stone",
 		"isotropic": true,
 		"brightness_gamma": 0,
 		"carried_textures": "zombie_pink_atlantis_solid"
 	},
 	"zombie:atlantis_solid_brown": {
 		"textures": "zombie_brown_atlantis_solid",
-		"sound": "glass",
+		"sound": "stone",
 		"isotropic": true,
 		"brightness_gamma": 0,
 		"carried_textures": "zombie_brown_atlantis_solid"
 	},
 	"zombie:atlantis_solid_red": {
 		"textures": "zombie_red_atlantis_solid",
-		"sound": "glass",
+		"sound": "stone",
 		"isotropic": true,
 		"brightness_gamma": 0,
 		"carried_textures": "zombie_red_atlantis_solid"
@@ -1712,5 +1712,53 @@
 	"zombie:music_note": {
 		"sound": "stone",
 		"textures": "zombie_music_note"
+	},
+	"zombie:sea_lantern_black": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_blue": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_brown": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_cyan": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_gray": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_green": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_light_blue": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_light_gray": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_lime": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_magenta": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_orange": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_pink": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_purple": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_red": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_white": {
+		"sound": "glass"
+	},
+	"zombie:sea_lantern_yellow": {
+		"sound": "glass"
 	}
 }
