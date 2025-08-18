@@ -1458,6 +1458,39 @@
 		},
 		"zombie_sharkmeat": {
 			"textures": "textures/items/food/shark_meat"
-		}
+		},
+		"zombie_infected_helmet_icon": {
+			"textures" : "textures/armor/infected/infected_helmet_icon"
+		},
+
+		"zombie_infected_chestplate_icon": {
+			"textures" : "textures/armor/infected/infected_chestplate_icon"
+		},
+
+		"zombie_infected_leggings_icon": {
+			"textures" : "textures/armor/infected/infected_leggings_icon"
+		},
+
+		"zombie_infected_boots_icon": {
+			"textures" : "textures/armor/infected/infected_boots_icon"
+		},
+		"zombie_chestplate_trim": {
+            "textures": "textures/trims/items/chestplate_trim"
+        },
+		"zombie_helmet_trim": {
+            "textures": "textures/trims/items/helmet_trim"
+        },
+		"zombie_leggings_trim": {
+            "textures": "textures/trims/items/leggings_trim"
+        },
+		"zombie_boots_trim": {
+            "textures": "textures/trims/items/boots_trim"
+        },
+		"zombie_infected_goo": {
+            "textures": "textures/armor/infected/infected_goo"
+        },
+		"zombie_infected_tablet": {
+            "textures": "textures/armor/infected/infected_tablet"
+        }
 	}
 }
