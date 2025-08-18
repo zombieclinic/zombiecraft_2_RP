@@ -2,12 +2,12 @@
 	"format_version": 2,
 	"header": {
 		"name": "zombiecraft_2",
-		"description": "update 8.10.2",
+		"description": "update 8.18.25",
 		"uuid": "78eff29f-e236-4251-88d6-fefea597f006",
 		"version": [
 			1,
 			0,
-			4
+			5
 		],
 		"min_engine_version": [
 			1,
@@ -22,7 +22,7 @@
 			"version": [
 				1,
 				0,
-				4
+				5
 			]
 		}
 	]
