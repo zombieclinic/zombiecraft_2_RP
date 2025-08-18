@@ -11,6 +11,40 @@ entity.zombie:zombieelf_spawn.name=Zombie Elf Tamed
 entity.zombie:zombiesanta_easy.name=Zombie Santa E
 entity.zombie:zombiesanta_medium.name=Zombie Santa M
 entity.zombie:zombiesanta_hard.name=Zombie Santa M
+entity.zombie:black_jelly_fish.name=Black Jellyfish Spawn Egg
+entity.zombie:feildcricket.name=Field Cricket Spawn Egg
+entity.zombie:fishing_hook.name=Fishing Hook Spawn Egg
+entity.zombie:green_jelly_fish.name=Green Jellyfish Spawn Egg
+entity.zombie:masterbutterfly.name=Butterfly Spawn Egg
+entity.zombie:purple_jelly_fish.name=Purple Jellyfish Spawn Egg
+entity.zombie:whale_orca.name=Orca Whale Spawn Egg
+entity.zombie:yellow_jelly_fish.name=Yellow Jellyfish Spawn Egg
+entity.zombie:peeper.name=Peeper Spawn Egg
+entity.zombie:glowing_spider.name=Glowing Spider Spawn Egg
+entity.yyfool:crab2.name=Crab Spawn Egg
+
+entity.zombie:corrupted_spire.name=Corrupted Spire
+entity.zombie:crusher.name=Crusher Zombie
+entity.zombie:emberstalker.name=Emberstalker
+entity.zombie:hammerhead.name=Hammerhead
+entity.zombie:hell_brute.name=Hell Brute
+entity.zombie:impaler.name=Impaler
+entity.zombie:mimic.name=Mimic
+entity.zombie:runner.name=Runner Zombie
+entity.zombie:scavenger.name=Scavenger Zombie
+entity.zombie:shroomling.name=Shroomling
+entity.zombie:spitter.name=Spitter Zombie
+entity.zombie:walker.name=Walker Zombie
+entity.zombie:greatwhite.name=Great White Shark
+entity.zombie:foragefolk.name=Foragefolk 
+entity.zombie:charged_zombie.name=charged_zombie
+entity.zombie:puker.name=Puker
+entity.zombie:mutated_zombie.name=Mutated Zombie
+entity.zombie:mutated_drowned.name=Mutated drowned
+entity.zombie:bloater.name=Bloater,
+entity.zombie:alligator.name=Alligator
+
+
 
 item.spawn_egg.entity.zombie:demon_arrow.name=Demon Arrow
 item.spawn_egg.entity.zombie:chaos_arrow_entity.name=Chaos Arrow
@@ -58,6 +92,13 @@ item.spawn_egg.entity.zombie:shroomling.name=Shroomling Spawn Egg
 item.spawn_egg.entity.zombie:spitter.name=Spitter Spawn Egg
 item.spawn_egg.entity.zombie:walker.name=Walker Spawn Egg
 item.spawn_egg.entity.zombie:greatwhite.name=Great White Spawn Egg
+item.spawn_egg.entity.zombie:foragefolk.name=Foragefolk Spawn Egg
+item.spawn_egg.entity.zombie:charged_zombie.name=charged_zombie Spawn Egg
+item.spawn_egg.entity.zombie:puker.name=Puker Spawn Egg
+item.spawn_egg.entity.zombie:mutated_zombie.name=Mutated Zombie Spawn Egg
+item.spawn_egg.entity.zombie:mutated_drowned.name=Mutated drowned Spawn Egg
+item.spawn_egg.entity.zombie:bloater.name=Bloater Spawn Egg,
+item.spawn_egg.entity.zombie:alligator.name=Alligator Spawn Egg
 
 
 potion.absorption.name=§ePotion of Absorption §8– Grants extra hearts temporarily
