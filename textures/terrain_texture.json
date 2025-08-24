@@ -2401,6 +2401,81 @@
     "shroomlight_pink":        { "textures": "textures/blocks/shroom_light/shroomlight_pink" },
 	"zombie_alligator_egg": {
 		"textures": "textures/blocks/eggs/alligator_egg"
+	},
+	"zombie_infected_block": {
+		"textures": "textures/blocks/infected/infected_block"
+	},
+	"zombie_infected_grass_top": {
+		"textures": "textures/blocks/infected/infected_grass_top"
+	},
+	"zombie_infected_grass_side": {
+		"textures": "textures/blocks/infected/infected_grass_side"
+	},
+	"zombie_infected_grass_top_alive": {
+		"textures": "textures/blocks/infected/infected_grass_top_alive"
+	},
+	"zombie_infected_grass_side_alive": {
+		"textures": "textures/blocks/infected/infected_grass_side_alive"
+	},
+	"zombie_infected_tree_log_side": {
+		"textures": "textures/blocks/infected/infected_tree_log"
+	},
+	"zombie_infected_tree_log_top": {
+		"textures": "textures/blocks/infected/infected_tree_log_top"
+	},
+	"zombie_infected_tree_log_side_stripped": {
+		"textures": "textures/blocks/infected/infected_tree_log_stripped"
+	},
+	"zombie_infected_tree_log_top_stripped": {
+		"textures": "textures/blocks/infected/infected_tree_log_stripped_top"
+	},
+	"zombie_infected_planks": {
+		"textures": "textures/blocks/infected/infected_planks"
+	},
+	"zombie_infected_leaves": {
+		"textures": "textures/blocks/infected/infected_leaves"
+	},
+	"zombie_true_black": {
+		"textures": "textures/blocks/color_blocks/true_black"
+	},
+	"zombie_happyplant_0": {
+		"textures": "textures/blocks/plants/happy_plants/happy_plant_0"
+	},
+	"zombie_happyplant_1": {
+		"textures": "textures/blocks/plants/happy_plants/happy_plant_1"
+	},
+	"zombie_happyplant_2": {
+		"textures": "textures/blocks/plants/happy_plants/happy_plant_2"
+	},
+	"zombie_happyplant_3": {
+		"textures": "textures/blocks/plants/happy_plants/happy_plant_3"
+	},
+	"zombie_happyplant_4": {
+		"textures": "textures/blocks/plants/happy_plants/happy_plant_4"
+	},
+	"zombie_happyplant_5": {
+		"textures": "textures/blocks/plants/happy_plants/happy_plant_5"
+	},
+	"zombie_happyplant_purple_0": {
+		"textures": "textures/blocks/plants/happy_plants/happy_plant_purple_0"
+	},
+	"zombie_happyplant_purple_1": {
+		"textures": "textures/blocks/plants/happy_plants/happy_plant_purple_1"
+	},
+	"zombie_happyplant_purple_2": {
+		"textures": "textures/blocks/plants/happy_plants/happy_plant_purple_2"
+	},
+	"zombie_happyplant_purple_3": {
+		"textures": "textures/blocks/plants/happy_plants/happy_plant_purple_3"
+	},
+	"zombie_happyplant_purple_4": {
+		"textures": "textures/blocks/plants/happy_plants/happy_plant_purple_4"
+	},
+	"zombie_happyplant_purple_5": {
+		"textures": "textures/blocks/plants/happy_plants/happy_plant_purple_5"
+	},
+	"zombie_infected_mushroom": {
+		"textures": "textures/blocks/infected/infected_mushroom"
 	}
   }
 }

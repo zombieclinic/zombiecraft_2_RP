@@ -1,0 +1,40 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "zombie:smilodon",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"white": "textures/entites/smilodon/white",
+				"tan": "textures/entites/smilodon/tan"
+			},
+			"geometry": {
+				"default": "geometry.smilodon"
+			},
+			"render_controllers": [
+				"controller.render.smilodon"
+			],
+			"spawn_egg": {
+				"base_color": "#199438",
+				"overlay_color": "#d49610"
+			},
+			"animations": {
+				"sit": "animation.smilodon.sit",
+				"idle": "animation.smilodon.idle",
+				"walk": "animation.smilo.walk",
+				"controller": "controller.animation.smilodon", 
+				"attack": "animation.smilodon.attack",
+				"look_at_target": "animation.common.look_at_target"
+				
+			},
+			"scripts": {
+				"animate": [
+					"controller",
+					"look_at_target"
+				]
+			}
+		}
+	}
+}

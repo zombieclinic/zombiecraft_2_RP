@@ -16,7 +16,7 @@
 							"swim": "query.is_swimming"
 						},
 						{
-							"sleep": "query.is_sleeping"
+							"sleep": "query.is_sitting"
 						}
 					]
 				},
@@ -32,7 +32,7 @@
 							"swim": "query.is_swimming"
 						},
 						{
-							"sleep": "query.is_sleeping"
+							"sleep": "query.is_sitting"
 						}
 					]
 				},
@@ -45,7 +45,7 @@
 							"default": "!query.is_swimming"
 						},
 						{
-							"sleep": "query.is_sleeping"
+							"sleep": "query.is_sitting"
 						}
 					]
 				},
@@ -55,7 +55,7 @@
 					],
 					"transitions": [
 						{
-							"default": "!query.is_sleeping"
+							"default": "!query.is_sitting"
 						}
 					]
 				}

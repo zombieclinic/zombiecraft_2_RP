@@ -20,7 +20,7 @@
                 "attack": "animation.impaler_melee",
                 "death": "animation.zombie_walker_death",
                 "spike" : "animation.impaler_conjure_spike",
-                "contoller": "controller.animation.zombie_walker"
+                "contoller": "controller.animation.zombie_impaler"
 			},
             "sound_effects": {"scream": "zombie_walker_born"},
             "render_controllers": ["controller.render.default"],

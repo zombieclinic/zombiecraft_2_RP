@@ -1491,6 +1491,24 @@
         },
 		"zombie_infected_tablet": {
             "textures": "textures/armor/infected/infected_tablet"
-        }
+        },
+		"zombie_infected_sword": {
+            "textures": "textures/armor/infected/infected_sword"
+        },
+		"zombie_infected_axe": {
+            "textures": "textures/armor/infected/infected_axe"
+        },
+		"zombie_happy_green_nug":{
+			"textures": "textures/items/plants/happy_plants/happygreenbud"
+		},
+		"zombie_happy_purple_nug":{
+			"textures": "textures/items/plants/happy_plants/happypurplebud"
+		},
+		"zombie_happy_green_seed":{
+			"textures": "textures/items/plants/happy_plants/seeds_happygreen"
+		},
+		"zombie_happy_purple_seed":{
+			"textures": "textures/items/plants/happy_plants/seeds_happypurple"
+		}
 	}
 }

@@ -87,7 +87,7 @@
 					],
 					"transitions": [
 						{
-							"Default": "!query.is_charged&&query.any_animation_finished"
+							"default": "!query.is_charged&&query.any_animation_finished"
 						}
 					],
 					"sound_effects": [

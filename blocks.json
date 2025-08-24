@@ -160,7 +160,7 @@
 		"brightness_gamma": 0,
 		"carried_textures": "zombie_red_atlantis_solid"
 	},
-	"zombie:redwood": {
+	"zombie:redwood_log": {
 		"textures": {
 			"up": "zombie_redwood_top",
 			"down": "zombie_redwood_top",
@@ -170,7 +170,6 @@
 		"brightness_gamma": 0
 	},
 	"zombie:redwood_leaves": {
-		"textures": "zombie_redwood_leaves",
 		"sound": "azalea_leaves",
 		"brightness_gamma": 0
 	},
@@ -179,10 +178,7 @@
 		"brightness_gamma": 0,
 		"textures": "zombie_redwood_planks"
 	},
-	"zombie:redwood_geo": {
-		"sound": "wood",
-		"brightness_gamma": 0
-	},
+	
 	"zombie:redwood_saplin": {
 		"sound": "wood",
 		"brightness_gamma": 0,
@@ -1760,5 +1756,56 @@
 	},
 	"zombie:sea_lantern_yellow": {
 		"sound": "glass"
+	},
+	"zombie:infected_block": {
+		"sound": "stone",
+		"textures" : "zombie_infected_block",
+		"isotropic": true,
+		"brightness_gamma": 3
+	},
+	"zombie:infected_grass_block": {
+		"textures": {
+			"up": "zombie_infected_grass_top",
+			"down": "zombie_infected_block",
+			"side": "zombie_infected_grass_side"
+		},
+		"sound": "grass",
+		"brightness_gamma": 0
+	},
+	"zombie:infected_tree_log":{
+		"sound": "wood",
+		"textures":{
+			"up": "zombie_infected_tree_log_top",
+			"down": "zombie_infected_tree_log_top",
+			"side": "zombie_infected_tree_log_side"
+		}
+	},
+	"zombie:infected_tree_log_stripped":{
+		"sound": "wood",
+		"textures":{
+			"up": "zombie_infected_tree_log_top_stripped",
+			"down": "zombie_infected_tree_log_top_stripped",
+			"side": "zombie_infected_tree_log_side_stripped"
+		}
+	},
+	"zombie:infected_planks": {
+		"sound": "wood",
+		"textures": "zombie_infected_planks"
+	},
+	"zombie:infected_leaves": {
+		"sound": "Leaves"
+	},
+	"zombie:true_black": {
+		"sound": "stone",
+		"textures": "zombie_true_black"
+	},
+	"zombie:infected_alive_grass": {
+		"textures": {
+			"up": "zombie_infected_grass_top_alive",
+			"down": "zombie_infected_block_alive",
+			"side": "zombie_infected_grass_side_alive"
+		},
+		"sound": "grass",
+		"brightness_gamma": 2
 	}
 }

@@ -1,0 +1,24 @@
+{
+	"format_version": "1.8.0",
+	"render_controllers": {
+		"controller.render.smilodon": {
+			"geometry": "geometry.default",
+			"arrays": {
+				"textures": {
+					"Array.variants": [
+						"Texture.white",
+						"Texture.tan"
+					]
+				}
+			},
+			"textures": [
+				"array.variants[query.variant]"
+			],
+			"materials": [
+				{
+					"*": "material.default"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "infected_grass_side",
+		"heightmap": "infected_grass_side_height"
+	}
+}

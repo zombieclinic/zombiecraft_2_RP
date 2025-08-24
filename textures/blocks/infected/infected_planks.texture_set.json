@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "infected_planks",
+		"metalness_emissive_roughness": "infected_planks_mer",
+		"heightmap": "infected_planks_height"
+	}
+}

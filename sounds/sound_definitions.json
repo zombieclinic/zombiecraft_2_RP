@@ -3,7 +3,7 @@
 	"sound_definitions": {
 	
 		"mob.bear.death": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/animals/bearsounds/bearsound_death_1",
@@ -13,7 +13,7 @@
 			]
 		},
 		"mob.bear.hurt": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/animals/bearsounds/bearsound_hurt_1",
@@ -24,7 +24,7 @@
 			]
 		},
 		"mob.bear.say": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/animals/bearsounds/bearsound_say_1",
@@ -37,7 +37,7 @@
 			]
 		},
 		"mob.bear.roar": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/animals/bearsounds/bearsound_roar_1",
@@ -49,7 +49,7 @@
 			]
 		},
 		"mob.bear.attack": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/animals/bearsounds/bearsound_attack_1",
@@ -95,7 +95,7 @@
 			"sounds": ["sounds/items/choas_explosion"]
 		},
 		"zombie.orca.ambient": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "neutral",
 			"sounds": [
 				"sounds/animals/orca/ambint_1",
@@ -159,7 +159,7 @@
 			]
 		},
 		"mob.zomboss.death": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/zomboss/death1",
@@ -167,7 +167,7 @@
 			]
 		},
 		"mob.zomboss.hurt": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/zomboss/hurt1",
@@ -178,7 +178,7 @@
 			]
 		},
 		"mob.zomboss.say": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/zomboss/say1",
@@ -193,7 +193,7 @@
 			]
 		},
 		"mob.zomboss.step": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/zomboss/step1",
@@ -214,7 +214,7 @@
 			]
 		},
 		"mob.puker.death": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/puker/death1",
@@ -223,7 +223,7 @@
 			]
 		},
 		"mob.puker.hurt": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/puker/hurt1",
@@ -233,7 +233,7 @@
 			]
 		},
 		"mob.puker.say": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/puker/say1",
@@ -245,7 +245,7 @@
 			]
 		},
 		"mob.puker.step": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/puker/step1",
@@ -254,7 +254,7 @@
 			]
 		},
 		"mob.z_dog.death": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/z_dog/death1",
@@ -263,7 +263,7 @@
 			]
 		},
 		"mob.z_dog.hurt": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/z_dog/hurt1",
@@ -273,7 +273,7 @@
 			]
 		},
 		"mob.bloater.death": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/bloater/death1",
@@ -283,7 +283,7 @@
 			]
 		},
 		"mob.bloater.hurt": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/bloater/hurt1",
@@ -293,7 +293,7 @@
 			]
 		},
 		"mob.bloater.say": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/bloater/say1",
@@ -305,7 +305,7 @@
 			]
 		},
 		"mob.bloater.step": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/bloater/step1",
@@ -326,7 +326,7 @@
 			]
 		},
 		"mob.mzombie.say": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/mzombie/say1",
@@ -345,7 +345,7 @@
 			]
 		},
 		"mob.mzombie.death": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/mzombie/death1",
@@ -357,7 +357,7 @@
 			]
 		},
 		"mob.mzombie.hurt": {
-			"__use_legacy_max_distance": true,
+			
 			"category": "hostile",
 			"sounds": [
 				"sounds/mob/mzombie/hurt1",
@@ -371,6 +371,31 @@
 				"sounds/mob/mzombie/hurt9",
 				"sounds/mob/mzombie/hurt10"
 			]
-		}
-	}
+		},
+		 "zombie:secrettunnel": {
+      "category": "music",
+      "sounds": [
+        { "name": "sounds/secrettunnel", "stream": true }
+      ]
+    },
+    "mob.smilodon.roar": {
+      "category": "hostile",
+      "sounds": [
+        { "name": "sounds/animals/smilodon/roar_0", "volume": 1.0, "weight": 3 },
+        { "name": "sounds/animals/smilodon/roar_1", "volume": 1.0, "weight": 2, "pitch": 0.98 },
+        { "name": "sounds/animals/smilodon/roar_2", "volume": 1.0, "weight": 2, "pitch": 1.02 },
+        { "name": "sounds/animals/smilodon/roar_3", "volume": 1.0, "weight": 1 }
+      ]
+    },
+    "mob.smilodon.hurt": {
+      "category": "hostile",
+      "sounds": [
+        { "name": "sounds/animals/smilodon/hurt_0", "volume": 1.0, "weight": 3 },
+        { "name": "sounds/animals/smilodon/hurt_1", "volume": 1.0, "weight": 2, "pitch": 0.98 },
+        { "name": "sounds/animals/smilodon/hurt_2", "volume": 1.0, "weight": 2, "pitch": 1.02 },
+        { "name": "sounds/animals/smilodon/hurt_3", "volume": 1.0, "weight": 1 }
+      ]
+    }
+  }
 }
+

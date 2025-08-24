@@ -123,6 +123,15 @@
 			},
 			"pitch": [0.8, 1.2],
 			"volume": 1
+		},
+		"zombie:smilodon": {
+			"events": {
+				"ambient": "mob.smilodon.roar",
+				"death": "mob.smilodon.hurt",
+				"hurt": "mob.smilodon.hurt"
+			},
+			"pitch": [0.8, 1.2],
+			"volume": 1
 		}
 	  }
 	}
